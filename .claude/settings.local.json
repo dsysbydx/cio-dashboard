@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(defaults read:*)",
+      "Read(//Users/Sunny/.claude/**)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(d.get\\(''''account'''',''''not found''''\\)\\)\")",
+      "WebSearch",
+      "WebFetch(domain:stockanalysis.com)",
+      "Bash(python3 -m json.tool /Users/Sunny/Github/cio-dashboard/portfolio_state.json)",
+      "WebFetch(domain:www.adyen.com)",
+      "WebFetch(domain:www.cnbc.com)",
+      "WebFetch(domain:www.indexbox.io)",
+      "WebFetch(domain:www.stockopine.com)",
+      "WebFetch(domain:kevincasteleijn.substack.com)",
+      "Bash(python3:*)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 -c \"\nimport json, sys, subprocess\ntry:\n    ev = json.load(sys.stdin)\n    fp = ev.get('tool_input', {}).get('file_path', '')\n    if 'portfolio_state.json' in fp:\n        r = subprocess.run(['python3', 'scripts/schema.py'], cwd='/Users/Sunny/Github/cio-dashboard', capture_output=True, text=True)\n        print(r.stdout, end='')\n        if r.returncode != 0:\n            print(r.stderr, end='')\nexcept Exception:\n    pass\n\""
+          }
+        ]
+      }
+    ]
+  }
+}
