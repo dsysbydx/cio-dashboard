@@ -51,10 +51,6 @@ body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(
 .filter-wrap input{background:transparent;border:none;outline:none;color:var(--t1);font-family:var(--f-sans);font-size:13px;width:140px}
 .filter-wrap input::placeholder{color:var(--t3)}
 .filter-icon{color:var(--t3);font-size:14px}
-.group-btns{display:flex;gap:4px}
-.grp-btn{padding:5px 12px;border-radius:6px;font-size:11px;font-weight:600;font-family:var(--f-sans);letter-spacing:.02em;cursor:pointer;border:1px solid var(--b1);background:transparent;color:var(--t3);transition:all .12s}
-.grp-btn:hover{color:var(--t1)}
-.grp-btn.on{background:var(--s3);border-color:var(--b2);color:var(--t1)}
 .topbar-r{display:flex;align-items:center;gap:8px}
 .btn{padding:6px 14px;border-radius:7px;font-size:12px;font-family:var(--f-sans);font-weight:500;cursor:pointer;border:1px solid var(--b2);background:transparent;color:var(--t2);transition:all .12s}
 .btn:hover{border-color:var(--acc);color:var(--t1)}
@@ -236,8 +232,6 @@ thead th.sort-desc::after{content:' ↓'}
 .earn-box-val{font-size:20px;font-weight:800;font-family:var(--f-mono)}
 .earn-box-sub{font-size:11px;font-family:var(--f-sans);color:var(--t3);margin-top:3px}
 
-/* GROUP HEADER ROW */
-.group-hdr td{padding:6px 14px;background:var(--s2);font-size:10px;font-family:var(--f-sans);font-weight:600;color:var(--t3);letter-spacing:.05em;text-transform:uppercase;border-bottom:1px solid var(--b1);border-top:1px solid var(--b1)}
 
 /* MODAL */
 .modal-bg{position:fixed;inset:0;background:rgba(0,0,0,.75);backdrop-filter:blur(4px);z-index:1000;display:flex;align-items:center;justify-content:center;opacity:0;pointer-events:none;transition:opacity .2s}
@@ -269,7 +263,6 @@ body { font-size:15px; }
 .page-title { font-size:18px; letter-spacing:-.01em; }
 .filter-wrap { border-radius:14px; height:38px; padding:0 14px; }
 .filter-wrap input { font-size:14px; width:160px; }
-.grp-btn { border-radius:10px; font-size:11px; padding:5px 13px; }
 .btn { border-radius:10px; font-size:12px; padding:7px 16px; }
 .upd-lbl { font-size:12px; }
 
@@ -359,9 +352,6 @@ thead th { font-size:11px; height:40px; padding:0 14px; letter-spacing:.08em; }
 .earn-box-val { font-size:22px; }
 .earn-box-sub { font-size:12px; }
 
-/* Group header */
-.group-hdr td { font-size:10px; padding:7px 14px; letter-spacing:.1em; }
-
 /* Modal */
 .modal { border-radius:22px; padding:30px; }
 .modal h3 { font-size:18px; margin-bottom:8px; }
@@ -420,10 +410,6 @@ thead th { font-size:11px; height:40px; padding:0 14px; letter-spacing:.08em; }
         <span class="filter-icon">⌕</span>
         <input type="text" placeholder="ticker or name…" oninput="setFilter(this.value)" id="filterInp">
       </div>
-      <div class="group-btns">
-        <button class="grp-btn on" onclick="setGroup('type')" id="grpType">By Type</button>
-        <button class="grp-btn" onclick="setGroup('none')" id="grpNone">Flat</button>
-      </div>
     </div>
     <div class="topbar-r">
       <span class="upd-lbl" id="updLbl"></span>
@@ -466,7 +452,7 @@ thead th { font-size:11px; height:40px; padding:0 14px; letter-spacing:.08em; }
 // DATA
 // ═══════════════════════════════════════════
 const SK='cio_v3';
-let state, expandedTicker=null, filterStr='', sortKey='weight', sortDir=-1, sectionFilter='all', groupMode='type', dirty=false, sbOpen=false;
+let state, expandedTicker=null, filterStr='', sortKey='weight', sortDir=-1, sectionFilter='all', dirty=false, sbOpen=false;
 
 const RAW=[
   ['EQQQ','Invesco EQQQ Nasdaq-100',4.70,'etf'],
@@ -602,25 +588,8 @@ function filteredRows(){
 function renderTable(){
   const rows=filteredRows();
   const tbody=document.getElementById('tbody');
-  // Group by type if groupMode='type'
   let html='';
-  if(groupMode==='type'&&sectionFilter==='all'&&!filterStr){
-    const groups=[
-      {label:'Equities',types:['equity']},
-      {label:'ETF / Index',types:['etf']},
-      {label:'Thai Banks',types:['thai_bank']},
-      {label:'Thai Other',types:['thai_other']},
-      {label:'Watchlist (0%)',types:['equity','etf','thai_bank','thai_other'],filter:h=>h.weight===0},
-    ];
-    groups.forEach(g=>{
-      let gr=rows.filter(h=>g.types.includes(h.type)&&(g.filter?g.filter(h):h.weight>0));
-      if(!gr.length) return;
-      html+=`<tr class="group-hdr"><td colspan="10">${g.label} (${gr.length})</td></tr>`;
-      gr.forEach(h=>{html+=rowHTML(h);});
-    });
-  } else {
-    rows.forEach(h=>{html+=rowHTML(h);});
-  }
+  rows.forEach(h=>{html+=rowHTML(h);});
   tbody.innerHTML=html;
   // re-attach expand panels
   if(expandedTicker){
@@ -866,12 +835,6 @@ function setSection(s){
 }
 
 function setFilter(v){filterStr=v;expandedTicker=null;renderTable();}
-function setGroup(m){
-  groupMode=m;
-  document.getElementById('grpType').classList.toggle('on',m==='type');
-  document.getElementById('grpNone').classList.toggle('on',m==='none');
-  renderTable();
-}
 function sortBy(k){
   if(sortKey===k) sortDir*=-1; else{sortKey=k;sortDir=-1;}
   document.querySelectorAll('thead th').forEach(th=>th.classList.remove('sort-asc','sort-desc'));
