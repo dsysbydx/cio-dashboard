@@ -62,10 +62,14 @@ class CIOHandler(http.server.SimpleHTTPRequestHandler):
             self.end_headers()
             self.wfile.write(json.dumps({"ok": False, "error": str(e)}).encode())
 
-    def _cors(self):
-        self.send_header("Access-Control-Allow-Origin", "http://localhost:8080")
+    def end_headers(self):
+        self.send_header("Access-Control-Allow-Origin", "*")
         self.send_header("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
         self.send_header("Access-Control-Allow-Headers", "Content-Type")
+        super().end_headers()
+
+    def _cors(self):
+        pass  # CORS now injected via end_headers for all responses
 
     def log_message(self, format, *args):
         if "POST" in (format % args) or "Error" in (format % args):

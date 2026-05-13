@@ -63,9 +63,10 @@ Full workflows and output formats are in `.claude/commands/`. Commands:
 
 | Command | Purpose |
 |---------|---------|
+| `/review [TICKER]` | **Full refresh of an existing holding** — earnings, GARP, scenarios, flags, verdict. Use this for periodic updates. |
 | `/earnings [TICKER]` | Latest quarter brief — actuals vs estimates, guidance delta, thesis check |
-| `/checklist [TICKER]` | GARP 8-dimension scoring |
-| `/scenarios [TICKER]` | Bear/base/bull to 2031 with returns model |
+| `/checklist [TICKER]` | GARP 8-dimension scoring only |
+| `/scenarios [TICKER]` | Bear/base/bull scenarios only |
 | `/healthcheck` | Full portfolio health scan — does NOT auto-write, confirm first |
 | `/research [TICKER]` | Full new-name research — business summary, checklist, scenarios, fit, recommendation |
 | `/sync` | Two-way sync with Google Sheet |

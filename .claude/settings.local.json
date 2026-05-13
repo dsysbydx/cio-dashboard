@@ -12,7 +12,9 @@
       "WebFetch(domain:www.indexbox.io)",
       "WebFetch(domain:www.stockopine.com)",
       "WebFetch(domain:kevincasteleijn.substack.com)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(head -5 /Users/Sunny/Github/cio-dashboard/.claude/commands/*.md)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8080/portfolio_state.json)"
     ]
   },
   "hooks": {

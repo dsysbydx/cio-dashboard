@@ -118,6 +118,11 @@ thead th.sort-desc::after{content:' ↓'}
 .cagr-base{background:rgba(245,200,66,.1);color:var(--yel)}
 .cagr-bull{background:rgba(45,217,138,.1);color:var(--grn)}
 .cagr-na{background:rgba(85,93,128,.08);color:var(--t3)}
+.cagr-sort-pill{font-size:10px;font-family:var(--f-mono);font-weight:700;padding:2px 6px;border-radius:3px;min-width:32px;text-align:center;cursor:pointer;opacity:.35;transition:opacity .12s}
+.cagr-sort-pill:hover{opacity:.7}
+.cagr-sort-pill.active{opacity:1}
+.cagr-sort-pill.active.asc::after{content:' ↑';font-size:8px}
+.cagr-sort-pill.active.desc::after{content:' ↓';font-size:8px}
 
 /* GARP BAR */
 .garp-bar-wrap{display:flex;align-items:center;gap:5px;min-width:120px}
@@ -410,7 +415,7 @@ thead th { font-size:11px; height:40px; padding:0 14px; letter-spacing:.08em; }
   <!-- TOPBAR -->
   <div class="topbar">
     <div class="topbar-l">
-      <div class="page-title" id="pageTitle">All Holdings</div>
+      <div class="page-title" id="pageTitle">All Holdings</div><span class="dirty-dot" id="dirtyDot"></span>
       <div class="filter-wrap">
         <span class="filter-icon">⌕</span>
         <input type="text" placeholder="ticker or name…" oninput="setFilter(this.value)" id="filterInp">
@@ -422,9 +427,9 @@ thead th { font-size:11px; height:40px; padding:0 14px; letter-spacing:.08em; }
     </div>
     <div class="topbar-r">
       <span class="upd-lbl" id="updLbl"></span>
-      <button class="btn" onclick="openImport()">↑ Import</button>
+      <button class="btn btn-save" onclick="saveAll()">↑ Save to File</button>
+      <button class="btn" onclick="refreshData()">↻ Refresh Data</button>
       <button class="btn" onclick="exportJSON()">↓ Export</button>
-      <button class="btn btn-save" onclick="saveAll()">Save<span class="dirty-dot" id="dirtyDot"></span></button>
     </div>
   </div>
 
@@ -439,7 +444,7 @@ thead th { font-size:11px; height:40px; padding:0 14px; letter-spacing:.08em; }
           <th style="width:26px"></th>
           <th onclick="sortBy('ticker')" style="min-width:140px">Ticker</th>
           <th onclick="sortBy('weight')" style="min-width:90px">Weight</th>
-          <th style="min-width:130px">CAGR Bear/Base/Bull</th>
+          <th style="min-width:140px;cursor:default;white-space:normal;line-height:1.6">CAGR<div class="cagr-trio" style="margin-top:3px"><span id="cagrSortBear" class="cagr-sort-pill cagr-bear" onclick="sortBy('cagr_bear');event.stopPropagation()">Bear</span><span id="cagrSortBase" class="cagr-sort-pill cagr-base" onclick="sortBy('cagr_base');event.stopPropagation()">Base</span><span id="cagrSortBull" class="cagr-sort-pill cagr-bull" onclick="sortBy('cagr_bull');event.stopPropagation()">Bull</span></div></th>
           <th onclick="sortBy('garp')" style="min-width:140px">GARP (8 dims)</th>
           <th style="min-width:130px">🚩 Red Flags</th>
           <th onclick="sortBy('thesis_status')" style="min-width:80px">Thesis</th>
@@ -454,19 +459,6 @@ thead th { font-size:11px; height:40px; padding:0 14px; letter-spacing:.08em; }
 </div>
 </div>
 
-<!-- IMPORT MODAL -->
-<div class="modal-bg" id="importModal">
-  <div class="modal">
-    <h3>Import portfolio_state.json</h3>
-    <p>Paste JSON, or click "From localhost" if python server.py is running.</p>
-    <textarea class="modal-ta" id="importTA" placeholder='{"last_updated":"…","holdings":[…]}'></textarea>
-    <div class="modal-acts">
-      <button class="btn" onclick="closeImport()">Cancel</button>
-      <button class="btn" onclick="fromLocalhost()">From localhost</button>
-      <button class="btn btn-save" onclick="importPaste()">Import</button>
-    </div>
-  </div>
-</div>
 <div class="toast" id="toast"></div>
 
 <script>
@@ -536,7 +528,7 @@ function initState(){
 
 function load(){const s=localStorage.getItem(SK);if(s){try{state=JSON.parse(s);return}catch(e){}}state=initState();}
 function persist(){state.last_updated=new Date().toISOString().split('T')[0];localStorage.setItem(SK,JSON.stringify(state));dirty=false;document.getElementById('dirtyDot').classList.remove('on');}
-function markDirty(){dirty=true;document.getElementById('dirtyDot').classList.add('on');}
+function markDirty(){dirty=true;}
 function get(t){return state.holdings.find(h=>h.ticker===t);}
 function garpTotal(h){return GK.reduce((s,k)=>s+(h.garp_scores[k]||0),0);}
 function daysSince(d){if(!d)return Infinity;return Math.floor((Date.now()-new Date(d))/864e5);}
@@ -595,6 +587,9 @@ function filteredRows(){
   rows.sort((a,b)=>{
     let av,bv;
     if(sortKey==='garp'){av=garpTotal(a);bv=garpTotal(b);}
+    else if(sortKey==='cagr_bear'){av=a.scenarios?.bear?.cagr??null;bv=b.scenarios?.bear?.cagr??null;}
+    else if(sortKey==='cagr_base'){av=a.scenarios?.base?.cagr??null;bv=b.scenarios?.base?.cagr??null;}
+    else if(sortKey==='cagr_bull'){av=a.scenarios?.bull?.cagr??null;bv=b.scenarios?.bull?.cagr??null;}
     else{av=a[sortKey];bv=b[sortKey];}
     if(av==null) av=sortDir>0?Infinity:-Infinity;
     if(bv==null) bv=sortDir>0?Infinity:-Infinity;
@@ -879,7 +874,17 @@ function setGroup(m){
 }
 function sortBy(k){
   if(sortKey===k) sortDir*=-1; else{sortKey=k;sortDir=-1;}
-  document.querySelectorAll('thead th').forEach(th=>{th.classList.remove('sort-asc','sort-desc');});
+  document.querySelectorAll('thead th').forEach(th=>th.classList.remove('sort-asc','sort-desc'));
+  document.querySelectorAll('.cagr-sort-pill').forEach(p=>p.classList.remove('active','asc','desc'));
+  if(k.startsWith('cagr_')){
+    const pill=document.getElementById('cagrSort'+k[5].toUpperCase()+k.slice(6));
+    if(pill)pill.classList.add('active',sortDir>0?'asc':'desc');
+  } else {
+    document.querySelectorAll('thead th[onclick]').forEach(th=>{
+      if(th.getAttribute('onclick').includes("'"+k+"'"))
+        th.classList.add(sortDir>0?'sort-asc':'sort-desc');
+    });
+  }
   renderTable();
 }
 
@@ -940,10 +945,25 @@ async function saveAll(){
   }catch(e){toast('Saved to browser only','info');}
   render();
 }
-function openImport(){document.getElementById('importModal').classList.add('open');}
-function closeImport(){document.getElementById('importModal').classList.remove('open');}
-function importPaste(){try{const d=JSON.parse(document.getElementById('importTA').value);mergeImport(d);closeImport();persist();render();toast('Imported ✓','ok');}catch(e){toast('Invalid JSON: '+e.message,'err');}}
-async function fromLocalhost(){try{const r=await fetch('http://localhost:8080/portfolio_state.json');if(!r.ok)throw new Error('HTTP '+r.status);const d=await r.json();mergeImport(d);closeImport();persist();render();toast('Loaded from localhost ✓','ok');}catch(e){toast('Cannot reach localhost:8080','err');}}
+async function refreshData(){
+  let d;
+  try{
+    const r=await fetch('http://localhost:8080/portfolio_state.json',{cache:'no-store'});
+    if(!r.ok)throw new Error('Server returned HTTP '+r.status);
+    d=await r.json();
+  }catch(e){
+    console.error('[refresh] fetch failed:',e);
+    toast('Cannot reach server — '+e.message,'err');
+    return;
+  }
+  try{
+    mergeImport(d);persist();render();
+    toast('Data refreshed ✓','ok');
+  }catch(e){
+    console.error('[refresh] render failed:',e);
+    toast('Refresh error: '+e.message,'err');
+  }
+}
 function mergeImport(d){if(d.holdings)d.holdings.forEach(ih=>{const ex=state.holdings.find(h=>h.ticker===ih.ticker);if(ex)Object.assign(ex,ih);else state.holdings.push(ih);});if(d.last_updated)state.last_updated=d.last_updated;if(d.non_holdings)state.non_holdings=d.non_holdings;}
 function exportJSON(){const b=new Blob([JSON.stringify(state,null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='portfolio_state_'+state.last_updated+'.json';a.click();toast('Exported','info');}
 function toast(msg,type='info'){const t=document.getElementById('toast');t.textContent=msg;t.className='toast '+type+' show';setTimeout(()=>t.classList.remove('show'),3000);}
@@ -951,8 +971,8 @@ function toast(msg,type='info'){const t=document.getElementById('toast');t.textC
 function render(){renderKPIs();renderTable();}
 
 document.addEventListener('keydown',e=>{
-  if((e.metaKey||e.ctrlKey)&&e.key==='s'){e.preventDefault();saveAll();}
-  if(e.key==='Escape'){closeImport();if(expandedTicker){expandedTicker=null;renderTable();}}
+  if((e.metaKey||e.ctrlKey)&&e.key==='r'){e.preventDefault();refreshData();}
+  if(e.key==='Escape'){if(expandedTicker){expandedTicker=null;renderTable();}}
 });
 
 load();render();
