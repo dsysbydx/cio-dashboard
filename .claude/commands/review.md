@@ -14,6 +14,7 @@ Workflow:
    - Glassdoor: overall rating, CEO approval %, trend
    - Red flag scan: "[TICKER] fraud", "[TICKER] SEC investigation", "[TICKER] restatement", "[TICKER] related party", "[TICKER] executive departure"
 3. Update `latest_earnings` — most recent reported quarter (or half-year if that's how they report)
+   - Include `revenue_growth` (YoY %) and `eps_growth` (YoY %) in addition to actuals vs estimates
 4. Score all 8 GARP dimensions 1–5 with rationale
 5. Build bear/base/bull scenarios to `target_year` (default: currentYear+5 = 2031)
    - Set `target_year` explicitly on the holding

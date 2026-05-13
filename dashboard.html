@@ -154,6 +154,7 @@ thead th.sort-desc::after{content:' ↓'}
 .earn-beat{color:var(--grn);font-weight:700}
 .earn-miss{color:var(--red);font-weight:700}
 .earn-lbl{color:var(--t3)}
+.earn-secondary{font-size:11px;opacity:.75}
 .earn-qtr{color:var(--t3);font-size:13px}
 
 /* REVIEW DATE */
@@ -638,10 +639,16 @@ function rowHTML(h){
     const rb=earn.revenue_actual>=earn.revenue_est;
     const ed=((earn.eps_actual-earn.eps_est)/earn.eps_est*100).toFixed(0);
     const rd=((earn.revenue_actual-earn.revenue_est)/earn.revenue_est*100).toFixed(0);
+    const rg=earn.revenue_growth!=null;
+    const eg=earn.eps_growth!=null;
+    const revMain=rg?`<span class="${earn.revenue_growth>=0?'earn-beat':'earn-miss'}">${earn.revenue_growth>=0?'+':''}${earn.revenue_growth}%</span> <span class="earn-lbl earn-secondary">(est ${rb?'+':''}${rd}%)</span>`
+                    :`<span class="earn-lbl">vs est</span> <span class="${rb?'earn-beat':'earn-miss'}">${rb?'+':''}${rd}%</span>`;
+    const epsMain=eg?`<span class="${earn.eps_growth>=0?'earn-beat':'earn-miss'}">${earn.eps_growth>=0?'+':''}${earn.eps_growth}%</span> <span class="earn-lbl earn-secondary">(est ${eb?'+':''}${ed}%)</span>`
+                    :`<span class="earn-lbl">vs est</span> <span class="${eb?'earn-beat':'earn-miss'}">${eb?'+':''}${ed}%</span>`;
     earnCol=`<div class="earn-cell">
       <span class="earn-qtr">${earn.quarter}</span>
-      <span class="earn-lbl">Rev</span><span class="${rb?'earn-beat':'earn-miss'}">${rb?'+':''}${rd}%</span>
-      <span class="earn-lbl">EPS</span><span class="${eb?'earn-beat':'earn-miss'}">${eb?'+':''}${ed}%</span>
+      <span class="earn-lbl">Rev</span>${revMain}
+      <span class="earn-lbl">EPS</span>${epsMain}
     </div>`;
   }
 

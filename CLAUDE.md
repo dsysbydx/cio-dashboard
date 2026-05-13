@@ -64,7 +64,7 @@ Full workflows and output formats are in `.claude/commands/`. Commands:
 | Command | Purpose |
 |---------|---------|
 | `/review [TICKER]` | **Full refresh of an existing holding** — earnings, GARP, scenarios, flags, verdict. Use this for periodic updates. |
-| `/earnings [TICKER]` | Latest quarter brief — actuals vs estimates, guidance delta, thesis check |
+| `/earnings [TICKER]` | Latest quarter brief — actuals vs estimates + YoY growth, guidance delta, thesis check |
 | `/checklist [TICKER]` | GARP 8-dimension scoring only |
 | `/scenarios [TICKER]` | Bear/base/bull scenarios only |
 | `/healthcheck` | Full portfolio health scan — does NOT auto-write, confirm first |
@@ -102,8 +102,8 @@ Full workflows and output formats are in `.claude/commands/`. Commands:
       },
       "latest_earnings": {
         "quarter": "Q4 2025",
-        "revenue_actual": 6.9, "revenue_est": 6.49,
-        "eps_actual": 0.63, "eps_est": 0.80
+        "revenue_actual": 6.9, "revenue_est": 6.49, "revenue_growth": 38,
+        "eps_actual": 0.63, "eps_est": 0.80, "eps_growth": 62
       },
       "thesis_summary": "...",
       "key_risks": ["risk 1", "risk 2"],
