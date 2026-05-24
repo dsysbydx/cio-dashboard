@@ -53,7 +53,7 @@ Bear = competition/macro/thesis partially wrong · Base = guidance delivered, no
 **Dashboard-consumed scenario fields (must match exactly):**
 - `revenue_target` — projected revenue at `target_year` (€B or $B)
 - `net_margin` — net margin % at `target_year`
-- `cagr` — revenue CAGR from base year to `target_year` (%)
+- `cagr` — annualised total return (IRR) from base year to `target_year` (%), inclusive of price appreciation and dividends; set equal to the `irr` field
 
 ---
 
