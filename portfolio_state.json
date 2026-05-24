@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10",
+  "last_updated": "2026-05-24",
   "holdings": [
     {
       "ticker": "EQQQ",
@@ -47,7 +47,8 @@
       "thesis_summary": "",
       "key_risks": [],
       "red_flags": [],
-      "notes": ""
+      "notes": "",
+      "earnings_notes": ""
     },
     {
       "ticker": "SE",
@@ -114,23 +115,24 @@
         "revenue_actual": 7.1,
         "revenue_est": 6.5,
         "eps_actual": 0.67,
-        "eps_est": 0.70
+        "eps_est": 0.7
       },
-      "thesis_summary": "SEA ecosystem play on underpenetrated SEA markets. Shopee #1 e-comm across 7 Asian markets + Brazil — GMV $37.3B (+30% YoY), revenue +44%. Monee accelerating: $9.9B loan book (+71% YoY), NPL stable 1.1%. Garena: genuine recovery with +41% revenue and +20% bookings. Revenue +47% YoY in Q1 2026 — fastest growth in years. Watch: Shopee EBITDA margin; 4th consecutive GAAP EPS miss (gap narrowing).",
+      "thesis_summary": "SEA ecosystem play on underpenetrated SEA markets. Shopee #1 e-comm across 7 Asian markets + Brazil \u2014 GMV $37.3B (+30% YoY), revenue +44%. Monee accelerating: $9.9B loan book (+71% YoY), NPL stable 1.1%. Garena: genuine recovery with +41% revenue and +20% bookings. Revenue +47% YoY in Q1 2026 \u2014 fastest growth in years. Watch: Shopee EBITDA margin; 4th consecutive GAAP EPS miss (gap narrowing).",
       "key_risks": [
-        "Shopee EBITDA declining in absolute terms (-15.6% YoY in Q1) despite massive revenue growth — reinvestment cycle may delay profitability longer than expected",
-        "4th consecutive GAAP EPS miss — pattern may erode market confidence even if non-GAAP beats",
+        "Shopee EBITDA declining in absolute terms (-15.6% YoY in Q1) despite massive revenue growth \u2014 reinvestment cycle may delay profitability longer than expected",
+        "4th consecutive GAAP EPS miss \u2014 pattern may erode market confidence even if non-GAAP beats",
         "TikTok Shop / JD intensifying e-commerce competition across SEA markets",
-        "Monee loan book growing 71% YoY — credit risk if macro deteriorates in Indonesia/Vietnam",
-        "No full-year revenue guidance — only GMV and EBITDA floor provided"
+        "Monee loan book growing 71% YoY \u2014 credit risk if macro deteriorates in Indonesia/Vietnam",
+        "No full-year revenue guidance \u2014 only GMV and EBITDA floor provided"
       ],
       "red_flags": [
-        "🟡 Q1 2026 GAAP EPS $0.67 vs $0.70 est — 4th consecutive GAAP EPS miss, though gap narrowing sharply (Q4 was -21%, Q1 is -4%). Non-GAAP EPS $0.84 beat $0.75 est.",
-        "🟡 Shopee adj EBITDA $223M in Q1 (-15.6% YoY) — falling in absolute terms despite +44% revenue growth; heavy reinvestment into logistics and Shopee VIP is delaying margin inflection",
-        "🟡 Monee loan book $9.9B (+71% YoY) — rapid credit expansion in emerging markets; NPL 1.1% stable for now but watch if macro turns"
+        "\ud83d\udfe1 Q1 2026 GAAP EPS $0.67 vs $0.70 est \u2014 4th consecutive GAAP EPS miss, though gap narrowing sharply (Q4 was -21%, Q1 is -4%). Non-GAAP EPS $0.84 beat $0.75 est.",
+        "\ud83d\udfe1 Shopee adj EBITDA $223M in Q1 (-15.6% YoY) \u2014 falling in absolute terms despite +44% revenue growth; heavy reinvestment into logistics and Shopee VIP is delaying margin inflection",
+        "\ud83d\udfe1 Monee loan book $9.9B (+71% YoY) \u2014 rapid credit expansion in emerging markets; NPL 1.1% stable for now but watch if macro turns"
       ],
-      "notes": "Q1 2026 earnings reported May 11, 2026. Stock +8% post-earnings. Revenue $7.1B blew past $6.5B consensus. Management finally provided Shopee EBITDA floor guidance: FY2026 ≥ 2025 level ($881M). Garena surprise: +41% revenue, +20% bookings, 666.5M QAU. Shopee GMV guidance: ~25% YoY growth for FY2026.",
-      "target_year": 2031
+      "notes": "Q1 2026 earnings reported May 11, 2026. Stock +8% post-earnings. Revenue $7.1B blew past $6.5B consensus. Management finally provided Shopee EBITDA floor guidance: FY2026 \u2265 2025 level ($881M). Garena surprise: +41% revenue, +20% bookings, 666.5M QAU. Shopee GMV guidance: ~25% YoY growth for FY2026.",
+      "target_year": 2031,
+      "earnings_notes": ""
     },
     {
       "ticker": "BH",
@@ -178,7 +180,8 @@
       "thesis_summary": "",
       "key_risks": [],
       "red_flags": [],
-      "notes": ""
+      "notes": "",
+      "earnings_notes": ""
     },
     {
       "ticker": "SCB",
@@ -250,19 +253,20 @@
         "eps_est": null,
         "eps_growth": -18.5
       },
-      "thesis_summary": "SCB X PCL operates Thailand's second-largest commercial bank with a regulatory oligopoly moat and an ~8.4% trailing dividend yield at THB 134.50 (THB 11.28 paid for FY2025). The BOT pausing at 1.00% after five consecutive cuts is the key positive shift since the last review — NIM headwind stabilises in H2 2026 rather than compounding further. Q1 2026 confirmed the pattern: NII -13.7% YoY but fee income +17.7% and C/I ratio 42.4% showing cost discipline. BankX virtual bank progressing toward THB 5B capital deployment — ROE drag for 3-5 years before meaningful contribution. Watch: Q2 2026 earnings for NIM stabilisation signal and whether FY2026 full-year dividend is cut more than 15% vs FY2025.",
+      "thesis_summary": "SCB X PCL operates Thailand's second-largest commercial bank with a regulatory oligopoly moat and an ~8.4% trailing dividend yield at THB 134.50 (THB 11.28 paid for FY2025). The BOT pausing at 1.00% after five consecutive cuts is the key positive shift since the last review \u2014 NIM headwind stabilises in H2 2026 rather than compounding further. Q1 2026 confirmed the pattern: NII -13.7% YoY but fee income +17.7% and C/I ratio 42.4% showing cost discipline. BankX virtual bank progressing toward THB 5B capital deployment \u2014 ROE drag for 3-5 years before meaningful contribution. Watch: Q2 2026 earnings for NIM stabilisation signal and whether FY2026 full-year dividend is cut more than 15% vs FY2025.",
       "key_risks": [
-        "NIM structurally suppressed even with BOT pause — lending rates already cut March 2, 2026; full NIM recovery requires BOT rate hike cycle unlikely before 2028; NII -13.7% YoY is the near-term earnings drag",
-        "Thai household debt ~90% GDP — limits consumer/SME loan growth, elevates NPL risk in lower-income segments; Thai GDP forecast cut sharply to 1.5% for 2026 by BOT",
-        "FY2026 dividend at risk of ~15% cut — annualised Q1 2026 earnings suggest full-year net profit ~THB 40-41B vs FY2025 THB 47.5B; 80% payout at THB 40B = ~THB 9.5/share vs THB 11.28 paid for FY2025",
-        "BankX capital drag — THB 5B registered capital for virtual bank; ROE dilution for 3-5 years until break-even; license application under review with Ministry of Finance",
-        "Crown Property Bureau/Thai MoF controlling ownership — limits shareholder-maximising capital decisions; Tier 1 18% capital buffer likely to remain unreturned"
+        "NIM structurally suppressed even with BOT pause \u2014 lending rates already cut March 2, 2026; full NIM recovery requires BOT rate hike cycle unlikely before 2028; NII -13.7% YoY is the near-term earnings drag",
+        "Thai household debt ~90% GDP \u2014 limits consumer/SME loan growth, elevates NPL risk in lower-income segments; Thai GDP forecast cut sharply to 1.5% for 2026 by BOT",
+        "FY2026 dividend at risk of ~15% cut \u2014 annualised Q1 2026 earnings suggest full-year net profit ~THB 40-41B vs FY2025 THB 47.5B; 80% payout at THB 40B = ~THB 9.5/share vs THB 11.28 paid for FY2025",
+        "BankX capital drag \u2014 THB 5B registered capital for virtual bank; ROE dilution for 3-5 years until break-even; license application under review with Ministry of Finance",
+        "Crown Property Bureau/Thai MoF controlling ownership \u2014 limits shareholder-maximising capital decisions; Tier 1 18% capital buffer likely to remain unreturned"
       ],
       "red_flags": [
-        "🟡 Q1 2026 net profit -18.5% YoY (THB 10.2B) — NIM compression from 5 rate cuts driving NII -13.7% YoY; total operating income -8.4% YoY; BOT now on pause at 1.00% which limits further downside but recovery is slow",
-        "🟡 NPL ratio 3.23% (improving from 3.29% QoQ) — absolute level elevated vs regional peers; household debt stress and 1.5% GDP growth forecast keep SME/consumer NPL risk alive"
+        "\ud83d\udfe1 Q1 2026 net profit -18.5% YoY (THB 10.2B) \u2014 NIM compression from 5 rate cuts driving NII -13.7% YoY; total operating income -8.4% YoY; BOT now on pause at 1.00% which limits further downside but recovery is slow",
+        "\ud83d\udfe1 NPL ratio 3.23% (improving from 3.29% QoQ) \u2014 absolute level elevated vs regional peers; household debt stress and 1.5% GDP growth forecast keep SME/consumer NPL risk alive"
       ],
-      "notes": "Reviewed 2026-05-23. Price THB 134.50 (as of May 19 — up from THB 131 at last review; ex-div April 20, 2026 for THB 11.28 FY2025 final; trailing yield ~8.4%). BOT paused at 1.00% after Feb 25, 2026 cut (4 cuts in 2025 + 1 in Feb 2026); DBS/TRIS expect no further cuts through end-2026. FY2025: net profit THB 47,488M (+8.1%), EPS ~14.09. Q1 2026: net profit THB 10,195M (-18.5% YoY), total operating income THB 39.3B vs 42.9B, C/I 42.4%, NPL 3.23% (improved from 3.29% QoQ). Shares 3.37B. Market cap ~THB 454B. P/E ~9.5x trailing FY2025, ~11x annualised Q1 2026. P/BV ~0.92x. Tier 1 capital 18.0%; coverage ratio 162.3%. Loan growth +3.4% YTD (large corp + mortgages). BankX: incorporated as public co with plan to increase capital to THB 5B within 2026 or upon virtual bank license submission; SCBX 90%, KakaoBank + WeBank as strategic partners. Analyst consensus: avg 12-month PT ~THB 141-144 (high 170, low 115); 7 buy, 3 sell — Neutral overall. No fraud/investigation/restatement flags found. Action changed add → hold: base case IRR 9% at THB 134.50 (vs add-level entry at 131); base PT 140 is only 4% above current price; dividend yield dipping ~7-8% in FY2026 vs 8.4% trailing. Scenario revenue in THB billions (total operating income)."
+      "notes": "Reviewed 2026-05-23. Price THB 134.50 (as of May 19 \u2014 up from THB 131 at last review; ex-div April 20, 2026 for THB 11.28 FY2025 final; trailing yield ~8.4%). BOT paused at 1.00% after Feb 25, 2026 cut (4 cuts in 2025 + 1 in Feb 2026); DBS/TRIS expect no further cuts through end-2026. FY2025: net profit THB 47,488M (+8.1%), EPS ~14.09. Q1 2026: net profit THB 10,195M (-18.5% YoY), total operating income THB 39.3B vs 42.9B, C/I 42.4%, NPL 3.23% (improved from 3.29% QoQ). Shares 3.37B. Market cap ~THB 454B. P/E ~9.5x trailing FY2025, ~11x annualised Q1 2026. P/BV ~0.92x. Tier 1 capital 18.0%; coverage ratio 162.3%. Loan growth +3.4% YTD (large corp + mortgages). BankX: incorporated as public co with plan to increase capital to THB 5B within 2026 or upon virtual bank license submission; SCBX 90%, KakaoBank + WeBank as strategic partners. Analyst consensus: avg 12-month PT ~THB 141-144 (high 170, low 115); 7 buy, 3 sell \u2014 Neutral overall. No fraud/investigation/restatement flags found. Action changed add \u2192 hold: base case IRR 9% at THB 134.50 (vs add-level entry at 131); base PT 140 is only 4% above current price; dividend yield dipping ~7-8% in FY2026 vs 8.4% trailing. Scenario revenue in THB billions (total operating income).",
+      "earnings_notes": ""
     },
     {
       "ticker": "NU",
@@ -303,7 +307,7 @@
           "net_margin": 18.0,
           "cagr": 28,
           "net_income": 9.9,
-          "eps": 2.20,
+          "eps": 2.2,
           "exit_pe": 20,
           "price_target": 44,
           "cumulative_dividends": 0,
@@ -331,25 +335,25 @@
         "revenue_est": 4.97,
         "revenue_growth": 58,
         "eps_actual": 0.18,
-        "eps_est": 0.20,
+        "eps_est": 0.2,
         "eps_growth": 56
       },
-      "thesis_summary": "Nu Holdings is the world's largest digital bank by customers (135M in LatAm), running the most capital-efficient financial model globally — 17.6% efficiency ratio, 29% ROE, zero branches — against incumbents that cannot structurally match the cost model. Revenue +58% YoY in Q1 2026, Mexico reached operating breakeven, US OCC charter conditionally approved; the geographic expansion thesis is executing on schedule. Watch: Q2 NPL 15-90 seasonal resolution and Brazil credit cycle, as Selic-rate dynamics and consumer credit expansion remain the primary macro lever on margins.",
+      "thesis_summary": "Nu Holdings is the world's largest digital bank by customers (135M in LatAm), running the most capital-efficient financial model globally \u2014 17.6% efficiency ratio, 29% ROE, zero branches \u2014 against incumbents that cannot structurally match the cost model. Revenue +58% YoY in Q1 2026, Mexico reached operating breakeven, US OCC charter conditionally approved; the geographic expansion thesis is executing on schedule. Watch: Q2 NPL 15-90 seasonal resolution and Brazil credit cycle, as Selic-rate dynamics and consumer credit expansion remain the primary macro lever on margins.",
       "key_risks": [
-        "Brazil credit cycle — 90%+ of revenue from Brazil; NPL 15-90 at 5.0% in Q1 (89bps QoQ increase, partly seasonal); if unemployment rises or BCB sustains Selic at 14.75%+, consumer credit quality deteriorates faster than provisions cover",
-        "Mexico/Colombia capital drag — Mexico just reached breakeven; Colombia is early-stage; each market requires sustained capital investment before reaching profitability, diluting Brazil's strong returns during the build phase",
-        "Single-country credit concentration — Brazil-heavy exposure means a Brazilian recession or regulatory shock (BCB capital requirements, interest rate caps) directly impairs 85%+ of earnings",
-        "COO departure (Lahrech, 2025) — CEO Vélez resumed direct operational control; key-person risk and succession planning concern as the company scales globally",
-        "US charter execution timeline — 'Act Three' is a multi-year capital commitment with no near-term revenue; risks management attention and capital allocation discipline during the LatAm scaling phase"
+        "Brazil credit cycle \u2014 90%+ of revenue from Brazil; NPL 15-90 at 5.0% in Q1 (89bps QoQ increase, partly seasonal); if unemployment rises or BCB sustains Selic at 14.75%+, consumer credit quality deteriorates faster than provisions cover",
+        "Mexico/Colombia capital drag \u2014 Mexico just reached breakeven; Colombia is early-stage; each market requires sustained capital investment before reaching profitability, diluting Brazil's strong returns during the build phase",
+        "Single-country credit concentration \u2014 Brazil-heavy exposure means a Brazilian recession or regulatory shock (BCB capital requirements, interest rate caps) directly impairs 85%+ of earnings",
+        "COO departure (Lahrech, 2025) \u2014 CEO V\u00e9lez resumed direct operational control; key-person risk and succession planning concern as the company scales globally",
+        "US charter execution timeline \u2014 'Act Three' is a multi-year capital commitment with no near-term revenue; risks management attention and capital allocation discipline during the LatAm scaling phase"
       ],
       "red_flags": [
-        "🟡 Q1 2026 EPS $0.18 vs $0.20 est (-9%) — miss driven entirely by higher credit provisions (+33% QoQ), conservative reserve-building; 90+ NPL fell 10bps and coverage at 2.5x; not a quality issue",
-        "🟡 NPL 15-90 rose 89bps to 5.0% in Q1 — management attributes 65bps to seasonality; watch Q2 for unwinding; 90+ NPL declining (6.5%) confirms no structural deterioration",
-        "🟡 COO Youssef Lahrech departed 2025; CEO Vélez resumed direct operational command — concentration of control, key-person risk at global expansion stage",
-        "🟡 CEO sold 33M shares in Aug 2025 (for personal asset planning/philanthropy); no insider buying in 12 months — though Vélez retains ~75% voting control via Class B super-voting shares"
+        "\ud83d\udfe1 Q1 2026 EPS $0.18 vs $0.20 est (-9%) \u2014 miss driven entirely by higher credit provisions (+33% QoQ), conservative reserve-building; 90+ NPL fell 10bps and coverage at 2.5x; not a quality issue",
+        "\ud83d\udfe1 NPL 15-90 rose 89bps to 5.0% in Q1 \u2014 management attributes 65bps to seasonality; watch Q2 for unwinding; 90+ NPL declining (6.5%) confirms no structural deterioration",
+        "\ud83d\udfe1 COO Youssef Lahrech departed 2025; CEO V\u00e9lez resumed direct operational command \u2014 concentration of control, key-person risk at global expansion stage",
+        "\ud83d\udfe1 CEO sold 33M shares in Aug 2025 (for personal asset planning/philanthropy); no insider buying in 12 months \u2014 though V\u00e9lez retains ~75% voting control via Class B super-voting shares"
       ],
-      "notes": "Reviewed 2026-05-15. Q1 2026 reported May 14, 2026. Price ~$13 post -11.5% earnings selloff. Managerial revenue $5,315.5M (+58% YoY vs $3,372.7M Q1 2025). IFRS revenue $5.0B (beat $4.97B est). Net income $871.4M (+56% YoY vs $557.2M). EPS $0.18 vs $0.20 est (miss from +33% QoQ provisions, not operations). ROE 29%. ARPAC $16/month (+27% YoY). Monthly activity rate 83%. NII $3.25B (record, +12% QoQ). Efficiency ratio: 17.6% Q1 (best ever); guided ~20% FY2026 as AI + international investments scale. Brazil: 115M+ customers, largest private financial institution. Mexico: 15M customers, breakeven Q1 — milestone. Colombia: ~5M customers. US OCC conditional charter approval. FY2025: revenue $15.8B, net income $2.9B. FY2026E revenue ~$20B (+28% YoY analyst consensus). FY2026E EPS $0.89; FY2027E EPS $1.18 → P/E 2027E ~11x. Analyst consensus: Strong Buy (4 analysts), avg PT ~$18-19. CEO David Vélez: holds 901M+ Class B shares (super-voting, ~75% voting control); sold 33M Class A in Aug 2025 (philanthropy); sold ~12K shares Apr 2026 ($173K). Total insider ownership ~7.5%. CEO approval 84/100 on Comparably (top 5%). No fraud/SEC investigation/restatement found. COO departed 2025. AI: engineering throughput +50% YoY, testing cycles 90% faster. Scenario revenue in USD billions.",
-      "target_year": 2031
+      "notes": "Reviewed 2026-05-15. Q1 2026 reported May 14, 2026. Price ~$13 post -11.5% earnings selloff. Managerial revenue $5,315.5M (+58% YoY vs $3,372.7M Q1 2025). IFRS revenue $5.0B (beat $4.97B est). Net income $871.4M (+56% YoY vs $557.2M). EPS $0.18 vs $0.20 est (miss from +33% QoQ provisions, not operations). ROE 29%. ARPAC $16/month (+27% YoY). Monthly activity rate 83%. NII $3.25B (record, +12% QoQ). Efficiency ratio: 17.6% Q1 (best ever); guided ~20% FY2026 as AI + international investments scale. Brazil: 115M+ customers, largest private financial institution. Mexico: 15M customers, breakeven Q1 \u2014 milestone. Colombia: ~5M customers. US OCC conditional charter approval. FY2025: revenue $15.8B, net income $2.9B. FY2026E revenue ~$20B (+28% YoY analyst consensus). FY2026E EPS $0.89; FY2027E EPS $1.18 \u2192 P/E 2027E ~11x. Analyst consensus: Strong Buy (4 analysts), avg PT ~$18-19. CEO David V\u00e9lez: holds 901M+ Class B shares (super-voting, ~75% voting control); sold 33M Class A in Aug 2025 (philanthropy); sold ~12K shares Apr 2026 ($173K). Total insider ownership ~7.5%. CEO approval 84/100 on Comparably (top 5%). No fraud/SEC investigation/restatement found. COO departed 2025. AI: engineering throughput +50% YoY, testing cycles 90% faster. Scenario revenue in USD billions.",
+      "earnings_notes": ""
     },
     {
       "ticker": "ADYEN",
@@ -421,22 +425,22 @@
         "eps_est": 17.94,
         "eps_growth": null
       },
-      "thesis_summary": "Adyen is the only global-scale, single-platform payment processor spanning online, in-store, and embedded finance — its unified architecture and proprietary banking infrastructure create structural advantages that competitors cannot replicate. Q1 2026 confirmed the growth thesis is intact: +16% reported (+20% cc), Platforms +40%, Unified Commerce +28%; FY2026 guidance of 20-22% cc reaffirmed. The Talon.One acquisition (€750M, April 2026) adds loyalty/promotions infrastructure and is Adyen's first-ever M&A — a strategic bet on real-time decisioning across commerce channels. Watch: Digital segment growth recovery (only +9% YoY in Q1) and Talon.One integration.",
+      "thesis_summary": "Adyen is the only global-scale, single-platform payment processor spanning online, in-store, and embedded finance \u2014 its unified architecture and proprietary banking infrastructure create structural advantages that competitors cannot replicate. Q1 2026 confirmed the growth thesis is intact: +16% reported (+20% cc), Platforms +40%, Unified Commerce +28%; FY2026 guidance of 20-22% cc reaffirmed. The Talon.One acquisition (\u20ac750M, April 2026) adds loyalty/promotions infrastructure and is Adyen's first-ever M&A \u2014 a strategic bet on real-time decisioning across commerce channels. Watch: Digital segment growth recovery (only +9% YoY in Q1) and Talon.One integration.",
       "key_risks": [
-        "Digital segment +9% YoY in Q1 2026 (weakest segment) — Braintree/Stripe/Block pressure in online checkout; structural slowdown would impair blended growth trajectory",
-        "Talon.One integration: Adyen has zero M&A track record; €750M at 12.5x ARR (~€60M) is a meaningful capital bet on loyalty/promotions being core to payments",
+        "Digital segment +9% YoY in Q1 2026 (weakest segment) \u2014 Braintree/Stripe/Block pressure in online checkout; structural slowdown would impair blended growth trajectory",
+        "Talon.One integration: Adyen has zero M&A track record; \u20ac750M at 12.5x ARR (~\u20ac60M) is a meaningful capital bet on loyalty/promotions being core to payments",
         "FX headwind: EUR/USD creating 3-4pp cc-vs-reported gap in 2026; persistent if USD remains weak",
         "Take rate compression risk if enterprise pricing war intensifies beyond current 17-18 bps range",
-        "Hiring 550-650 net new headcount in 2026 — opex acceleration creates margin risk if H2 revenue growth disappoints"
+        "Hiring 550-650 net new headcount in 2026 \u2014 opex acceleration creates margin risk if H2 revenue growth disappoints"
       ],
       "red_flags": [
-        "🟡 Digital segment +9% YoY (+13% cc) in Q1 2026 — still lagging Unified Commerce (+28% cc) and Platforms (+40%); needs to stabilize to confirm H2 2025 weakness was transitional",
-        "🟡 Talon.One €750M acquisition (first-ever M&A) — reduces net cash from €4.4B to ~€3.65B; 12.5x ARR multiple; close expected H2 2026 subject to regulatory approval",
-        "🟡 FX drag: +20% cc vs +16% reported in Q1 2026 — ~4pp headwind from USD/EUR; stock trades in EUR but earns significant USD revenue",
-        "🟡 Stock still -47% from €1,750 peak (52-week low €824); technically in repair mode and below major moving averages despite recovery"
+        "\ud83d\udfe1 Digital segment +9% YoY (+13% cc) in Q1 2026 \u2014 still lagging Unified Commerce (+28% cc) and Platforms (+40%); needs to stabilize to confirm H2 2025 weakness was transitional",
+        "\ud83d\udfe1 Talon.One \u20ac750M acquisition (first-ever M&A) \u2014 reduces net cash from \u20ac4.4B to ~\u20ac3.65B; 12.5x ARR multiple; close expected H2 2026 subject to regulatory approval",
+        "\ud83d\udfe1 FX drag: +20% cc vs +16% reported in Q1 2026 \u2014 ~4pp headwind from USD/EUR; stock trades in EUR but earns significant USD revenue",
+        "\ud83d\udfe1 Stock still -47% from \u20ac1,750 peak (52-week low \u20ac824); technically in repair mode and below major moving averages despite recovery"
       ],
-      "notes": "Reviewed 2026-05-13. Q1 2026 Business Update published May 6, 2026. Listed Euronext Amsterdam (ADYEN.AS). EUR-denominated. Revenue in EUR millions for latest_earnings; scenario revenue in EUR billions. Net cash ~€3.65B post Talon.One close (expected H2 2026). Co-CEO: Pieter van der Does (~2.9% stake) + Ingo Uytdehaage. Net insider buying last 90 days. Glassdoor 3.7/5. No fraud/SEC/restatement flags. 33 analysts: 29 Buy, 0 Sell, 4 Hold; avg PT €1,392 (52% upside from €922). FY2026 earnings report expected Aug 12, 2026 (H1 2026 results).",
-      "target_year": 2031
+      "notes": "Reviewed 2026-05-13. Q1 2026 Business Update published May 6, 2026. Listed Euronext Amsterdam (ADYEN.AS). EUR-denominated. Revenue in EUR millions for latest_earnings; scenario revenue in EUR billions. Net cash ~\u20ac3.65B post Talon.One close (expected H2 2026). Co-CEO: Pieter van der Does (~2.9% stake) + Ingo Uytdehaage. Net insider buying last 90 days. Glassdoor 3.7/5. No fraud/SEC/restatement flags. 33 analysts: 29 Buy, 0 Sell, 4 Hold; avg PT \u20ac1,392 (52% upside from \u20ac922). FY2026 earnings report expected Aug 12, 2026 (H1 2026 results).",
+      "earnings_notes": ""
     },
     {
       "ticker": "MA",
@@ -484,7 +488,8 @@
       "thesis_summary": "",
       "key_risks": [],
       "red_flags": [],
-      "notes": ""
+      "notes": "",
+      "earnings_notes": ""
     },
     {
       "ticker": "MC.BK",
@@ -532,7 +537,8 @@
       "thesis_summary": "",
       "key_risks": [],
       "red_flags": [],
-      "notes": ""
+      "notes": "",
+      "earnings_notes": ""
     },
     {
       "ticker": "AMZN",
@@ -601,24 +607,25 @@
         "revenue_est": 177.84,
         "revenue_growth": 16.6,
         "eps_actual": 2.78,
-        "eps_est": 1.60,
+        "eps_est": 1.6,
         "eps_growth": 74
       },
-      "thesis_summary": "Amazon is a three-engine flywheel — AWS ($37.6B/qtr, +28% YoY, fastest in 15 quarters; AI revenue run rate >$15B), Advertising (~$15B/qtr growing ~18% YoY at high margin), and Prime ecosystem (retail conversion engine, >200M members) — with each engine reinforcing the others. Q1 2026 confirmed margin expansion is structural: record 13.1% operating margin as AWS mix and advertising operating leverage overwhelm retail cost pressures, even with $200B FY2026 capex (the largest single-year corporate infrastructure bet in history). The capex is not speculative — customer commitments for a significant portion exist, with OpenAI's >$100B commitment as one example; AWS's 28% growth at this scale (CEO Jassy: 'very unusual for a business to grow this fast on a base this large') validates the bet. Watch: Q2 2026 consumer spending in retail amid tariff-driven price inflation (Amazon prices +12.8% vs Walmart 5.3%), and whether AWS sustains 25%+ growth as Google Cloud and Azure close ground.",
+      "thesis_summary": "Amazon is a three-engine flywheel \u2014 AWS ($37.6B/qtr, +28% YoY, fastest in 15 quarters; AI revenue run rate >$15B), Advertising (~$15B/qtr growing ~18% YoY at high margin), and Prime ecosystem (retail conversion engine, >200M members) \u2014 with each engine reinforcing the others. Q1 2026 confirmed margin expansion is structural: record 13.1% operating margin as AWS mix and advertising operating leverage overwhelm retail cost pressures, even with $200B FY2026 capex (the largest single-year corporate infrastructure bet in history). The capex is not speculative \u2014 customer commitments for a significant portion exist, with OpenAI's >$100B commitment as one example; AWS's 28% growth at this scale (CEO Jassy: 'very unusual for a business to grow this fast on a base this large') validates the bet. Watch: Q2 2026 consumer spending in retail amid tariff-driven price inflation (Amazon prices +12.8% vs Walmart 5.3%), and whether AWS sustains 25%+ growth as Google Cloud and Azure close ground.",
       "key_risks": [
-        "Tariff-driven retail headwind — marketplace average prices +12.8% from tariffs (vs Walmart 5.3%); third-party seller buffer stocks exhausted; consumer price sensitivity in discretionary categories could dampen GMV growth in H2 2026; FBA fee increases add to seller cost pressures",
-        "FY2026 capex ~$200B creates near-zero FCF for 2026-2027 — doubled from 2025's $131B; ROI depends on AWS demand materialising at the pace of infrastructure build; any AWS growth deceleration below 20% would signal capex overshoot",
-        "AWS competition intensifying — Google Cloud +63% YoY in Q1 2026 (vs AWS +28%); Azure growing; at $150B+ annualised AWS revenue, sustaining 25%+ growth requires winning increasingly large enterprise workloads against well-capitalised competitors",
-        "Anthropic investment gains distort underlying earnings — $1.24/share Anthropic gain in Q1 2026 ($16.8B pre-tax) will recur as long as Anthropic valuation rises; makes quarter-to-quarter EPS comparison unreliable; FTC/DOJ AI investment scrutiny",
-        "CEO insider selling (0 buys, 27 sells over 5 years; most recent May 4, 2026) + FTC $2.5B settlement on Prime subscription practices — governance concerns at a company spending $200B/yr"
+        "Tariff-driven retail headwind \u2014 marketplace average prices +12.8% from tariffs (vs Walmart 5.3%); third-party seller buffer stocks exhausted; consumer price sensitivity in discretionary categories could dampen GMV growth in H2 2026; FBA fee increases add to seller cost pressures",
+        "FY2026 capex ~$200B creates near-zero FCF for 2026-2027 \u2014 doubled from 2025's $131B; ROI depends on AWS demand materialising at the pace of infrastructure build; any AWS growth deceleration below 20% would signal capex overshoot",
+        "AWS competition intensifying \u2014 Google Cloud +63% YoY in Q1 2026 (vs AWS +28%); Azure growing; at $150B+ annualised AWS revenue, sustaining 25%+ growth requires winning increasingly large enterprise workloads against well-capitalised competitors",
+        "Anthropic investment gains distort underlying earnings \u2014 $1.24/share Anthropic gain in Q1 2026 ($16.8B pre-tax) will recur as long as Anthropic valuation rises; makes quarter-to-quarter EPS comparison unreliable; FTC/DOJ AI investment scrutiny",
+        "CEO insider selling (0 buys, 27 sells over 5 years; most recent May 4, 2026) + FTC $2.5B settlement on Prime subscription practices \u2014 governance concerns at a company spending $200B/yr"
       ],
       "red_flags": [
-        "🔴 FY2026 capex ~$200B (largest single-year corporate capex in history) — doubled from 2025's $131B; FCF near-zero to negative in 2026-2027; AWS +28% YoY provides demand-side validation but AI ROI timeline uncertain",
-        "🟡 Q1 2026 reported EPS $2.78 includes $1.24/share from Anthropic investment gain ($16.8B pre-tax, non-recurring) — underlying EPS ~$1.54 missed $1.60 consensus slightly; headline dramatically overstates operational earnings quality",
-        "🟡 Retail tariff pressure — Amazon marketplace average prices +12.8% (vs Walmart 5.3%, Target 5.5%); Q2 2026 guidance wide range ($193-198B) signals tariff demand uncertainty; 3P seller buffer stocks exhausted",
-        "🟡 CEO Andy Jassy: 0 buys, 27 sells over 5 years (most recent 31K shares on May 4, 2026); despite $596M stake, no demonstrated personal conviction via purchases; FTC $2.5B settlement over Prime subscription practices (Sept 2025)"
+        "\ud83d\udd34 FY2026 capex ~$200B (largest single-year corporate capex in history) \u2014 doubled from 2025's $131B; FCF near-zero to negative in 2026-2027; AWS +28% YoY provides demand-side validation but AI ROI timeline uncertain",
+        "\ud83d\udfe1 Q1 2026 reported EPS $2.78 includes $1.24/share from Anthropic investment gain ($16.8B pre-tax, non-recurring) \u2014 underlying EPS ~$1.54 missed $1.60 consensus slightly; headline dramatically overstates operational earnings quality",
+        "\ud83d\udfe1 Retail tariff pressure \u2014 Amazon marketplace average prices +12.8% (vs Walmart 5.3%, Target 5.5%); Q2 2026 guidance wide range ($193-198B) signals tariff demand uncertainty; 3P seller buffer stocks exhausted",
+        "\ud83d\udfe1 CEO Andy Jassy: 0 buys, 27 sells over 5 years (most recent 31K shares on May 4, 2026); despite $596M stake, no demonstrated personal conviction via purchases; FTC $2.5B settlement over Prime subscription practices (Sept 2025)"
       ],
-      "notes": "First full review 2026-05-23. Price $267 (52-week range $196-$278.56; near high). All figures USD. Q1 2026 (Apr 29, 2026): Revenue $181.5B (+16.6% YoY vs Q1 2025 $155.7B; beat $177.84B est); reported EPS $2.78 (beat $1.60; includes $1.24/share Anthropic gain = $16.8B pre-tax unrealised gain); underlying EPS ~$1.54; operating income $23.9B (record 13.1% margin vs 11.8% Q1 2025). AWS: $37.59B (+28% YoY, fastest growth in 15 quarters; AI revenue run rate >$15B, ~260x vs 3 years ago). Q2 2026 guidance: $193-198B rev (midpoint $196.5B, +17% YoY, 4% above consensus). FY2025 (est): Revenue ~$720B; Q1 $155.7B, Q2 $167.7B, Q3 $180.2B, Q4 est ~$216B; operating income ~$76-80B. FY2026 capex: ~$200B (doubled from $131B in 2025); Jassy: 'we're not going to be conservative.' OpenAI multi-year deal >$100B cited as example of customer commitment underpinning capex. Balance sheet: investment grade (AA-); net cash positive at holdco before capex commitments. Anthropic: massive unrealised gains ($16.8B pre-tax in Q1 alone); strategic AI partnership. FTC settlement Sept 2025: $1B penalty + $1.5B refunds for Prime subscription practices. Advertising: ~$15B/qtr growing ~18% YoY, high-margin. International e-comm returning to profitability. CEO Jassy 2025 shareholder letter: took aim at Nvidia custom silicon (Trainium 2), Intel (Graviton), Starlink (Project Kuiper) — broad-based competitive posture. Glassdoor: high performer culture, mixed reviews. Analyst consensus: avg PT ~$285-319 (range $207-370; 64 Buy, 4 Hold, 0 Sell; Strong Buy); FY2026 consensus EPS distorted by Anthropic. Shares: ~10.5B diluted. Market cap ~$2.8T. Forward P/E ~43x on underlying earnings. Next earnings: late July 2026. Scenario revenue in USD billions."
+      "notes": "First full review 2026-05-23. Price $267 (52-week range $196-$278.56; near high). All figures USD. Q1 2026 (Apr 29, 2026): Revenue $181.5B (+16.6% YoY vs Q1 2025 $155.7B; beat $177.84B est); reported EPS $2.78 (beat $1.60; includes $1.24/share Anthropic gain = $16.8B pre-tax unrealised gain); underlying EPS ~$1.54; operating income $23.9B (record 13.1% margin vs 11.8% Q1 2025). AWS: $37.59B (+28% YoY, fastest growth in 15 quarters; AI revenue run rate >$15B, ~260x vs 3 years ago). Q2 2026 guidance: $193-198B rev (midpoint $196.5B, +17% YoY, 4% above consensus). FY2025 (est): Revenue ~$720B; Q1 $155.7B, Q2 $167.7B, Q3 $180.2B, Q4 est ~$216B; operating income ~$76-80B. FY2026 capex: ~$200B (doubled from $131B in 2025); Jassy: 'we're not going to be conservative.' OpenAI multi-year deal >$100B cited as example of customer commitment underpinning capex. Balance sheet: investment grade (AA-); net cash positive at holdco before capex commitments. Anthropic: massive unrealised gains ($16.8B pre-tax in Q1 alone); strategic AI partnership. FTC settlement Sept 2025: $1B penalty + $1.5B refunds for Prime subscription practices. Advertising: ~$15B/qtr growing ~18% YoY, high-margin. International e-comm returning to profitability. CEO Jassy 2025 shareholder letter: took aim at Nvidia custom silicon (Trainium 2), Intel (Graviton), Starlink (Project Kuiper) \u2014 broad-based competitive posture. Glassdoor: high performer culture, mixed reviews. Analyst consensus: avg PT ~$285-319 (range $207-370; 64 Buy, 4 Hold, 0 Sell; Strong Buy); FY2026 consensus EPS distorted by Anthropic. Shares: ~10.5B diluted. Market cap ~$2.8T. Forward P/E ~43x on underlying earnings. Next earnings: late July 2026. Scenario revenue in USD billions.",
+      "earnings_notes": ""
     },
     {
       "ticker": "PM",
@@ -690,20 +697,21 @@
         "eps_est": 1.83,
         "eps_growth": 16
       },
-      "thesis_summary": "Philip Morris International is executing the world's largest tobacco-to-smoke-free transition — IQOS commands 76% of the global heat-not-burn market (43M+ consumers, 106 markets) and in Q1 2026 overtook Marlboro as PM's #1 brand by volume, a landmark milestone. ZYN (FDA-authorized January 2026 for 20 products) controls 70% of the US nicotine pouch market ($3.24B in FY2025, +37% YoY), making PM the clear regulator-friendly winner in the nicotine alternatives transition. The 2026-2028 growth algorithm targets 9-11% adjusted EPS CAGR and 6-8% organic revenue CAGR — already delivered in 2 of 3 years ahead of the prior 2024-2026 algorithm. Watch: FDA MRTP decision on ZYN (could allow 'less harmful' marketing), IQOS US rollout under the new PMI U.S. business unit, and debt reduction toward management's preferred <2x net debt/EBITDA.",
+      "thesis_summary": "Philip Morris International is executing the world's largest tobacco-to-smoke-free transition \u2014 IQOS commands 76% of the global heat-not-burn market (43M+ consumers, 106 markets) and in Q1 2026 overtook Marlboro as PM's #1 brand by volume, a landmark milestone. ZYN (FDA-authorized January 2026 for 20 products) controls 70% of the US nicotine pouch market ($3.24B in FY2025, +37% YoY), making PM the clear regulator-friendly winner in the nicotine alternatives transition. The 2026-2028 growth algorithm targets 9-11% adjusted EPS CAGR and 6-8% organic revenue CAGR \u2014 already delivered in 2 of 3 years ahead of the prior 2024-2026 algorithm. Watch: FDA MRTP decision on ZYN (could allow 'less harmful' marketing), IQOS US rollout under the new PMI U.S. business unit, and debt reduction toward management's preferred <2x net debt/EBITDA.",
       "key_risks": [
-        "FDA regulatory reversal on ZYN — the FDA authorized 20 products in January 2026 but MRTP (modified risk) designation is still pending; any reversal of authorization, flavour ban, or adverse ZYN Ultra ruling would directly hit the core US growth engine",
-        "FX headwinds structural — PM earns most revenues in non-USD currencies and reports in USD; dollar strength meaningfully suppresses reported EPS despite strong organic growth (Q1 2026: adj EPS +16% but reported EPS -9.3% YoY)",
-        "Long-term debt $48.7B (net debt/EBITDA ~2.2x) — above management's <2x target; Swedish Match acquisition leverage limits buyback capacity and creates interest expense drag; preferred deleveraging may conflict with dividend growth ambitions",
-        "IQOS geopolitical exposure — major markets Japan, Korea, EU; tariffs or platform restrictions in any key market (Russia was already exited) could impair international smoke-free growth trajectory",
-        "Combustible volume decline risk — if cigarette volumes decline faster than ~3-5%/yr or consumers prefer competing products (VELO, On!) over PM's smoke-free portfolio, smoke-free growth must accelerate further to offset"
+        "FDA regulatory reversal on ZYN \u2014 the FDA authorized 20 products in January 2026 but MRTP (modified risk) designation is still pending; any reversal of authorization, flavour ban, or adverse ZYN Ultra ruling would directly hit the core US growth engine",
+        "FX headwinds structural \u2014 PM earns most revenues in non-USD currencies and reports in USD; dollar strength meaningfully suppresses reported EPS despite strong organic growth (Q1 2026: adj EPS +16% but reported EPS -9.3% YoY)",
+        "Long-term debt $48.7B (net debt/EBITDA ~2.2x) \u2014 above management's <2x target; Swedish Match acquisition leverage limits buyback capacity and creates interest expense drag; preferred deleveraging may conflict with dividend growth ambitions",
+        "IQOS geopolitical exposure \u2014 major markets Japan, Korea, EU; tariffs or platform restrictions in any key market (Russia was already exited) could impair international smoke-free growth trajectory",
+        "Combustible volume decline risk \u2014 if cigarette volumes decline faster than ~3-5%/yr or consumers prefer competing products (VELO, On!) over PM's smoke-free portfolio, smoke-free growth must accelerate further to offset"
       ],
       "red_flags": [
-        "🟡 Long-term debt $48.7B; net debt/EBITDA ~2.2x — above management's preferred <2x target; deleverage is the right priority but large interest expense constrains capital return optionality until ratio normalises",
-        "🟡 Reported EPS Q1 2026 -9.3% YoY ($1.56 reported vs $1.96 adjusted) — non-cash investment impacts creating a persistent reported/adjusted gap; watch for any change that makes this gap structural rather than transitory",
-        "🟡 ZYN Ultra marketing authorization pending in FDA pilot program — needed for the next leg of US nicotine pouch growth above standard 3mg/6mg products; regulatory timeline unclear"
+        "\ud83d\udfe1 Long-term debt $48.7B; net debt/EBITDA ~2.2x \u2014 above management's preferred <2x target; deleverage is the right priority but large interest expense constrains capital return optionality until ratio normalises",
+        "\ud83d\udfe1 Reported EPS Q1 2026 -9.3% YoY ($1.56 reported vs $1.96 adjusted) \u2014 non-cash investment impacts creating a persistent reported/adjusted gap; watch for any change that makes this gap structural rather than transitory",
+        "\ud83d\udfe1 ZYN Ultra marketing authorization pending in FDA pilot program \u2014 needed for the next leg of US nicotine pouch growth above standard 3mg/6mg products; regulatory timeline unclear"
       ],
-      "notes": "First full review 2026-05-23. Price $188.46 (52-week range $142.33-$193.05; near all-time high $191.86 on May 14, 2026). All figures in USD. FY2025: net revenue ~$41B; smoke-free $17B = 41.5% of total; reported diluted EPS $7.26; adj diluted EPS $7.54 (+14.2% currency-neutral); quarterly dividend raised to $1.47/share ($5.88 annualized) — largest increase in over a decade; smoke-free shipment volume +12.8%; IQOS est. 43M adult consumers in 106 markets; ZYN 794M cans (+37% YoY), $3.24B sales, 70% US market share. Q1 2026: revenue $10.1B (+9.1% YoY, beat $9.89B est); adj EPS $1.96 (+16% YoY, beat $1.83 est); reported EPS $1.56 (-9.3% YoY on non-cash investment impacts); smoke-free 43% of net revenues (+24.7% YoY); IQOS overtook Marlboro as PM's #1 brand by volume. FY2026 adj EPS guidance raised to $8.36-$8.51 (+10.9-12.9% YoY). 2026-2028 growth algorithm: 6-8% organic revenue CAGR, 8-10% operating income, 9-11% adj diluted EPS excl. currency. Balance sheet: LTD $48.7B (Dec 2025); net debt/EBITDA ~2.2x (preferred <2x); investment grade. Jan 2026 org restructure: PMI International + PMI U.S. (new unit post-Swedish Match) + Aspeya wellness. CEO: Jacek Olczak (Group CEO since May 2021); owns 632,344 shares ($101M); comp $20.24M/yr (91.6% stock). No fraud/investigation/restatement flags found. FDA: ZYN authorized for 20 products (10 flavors, 3mg+6mg) January 2026 — first nicotine pouch brand with FDA authorization; MRTP (modified risk) consideration ongoing with public meeting Jan 2026. ZYN Ultra PMTA pending in FDA pilot program. Analyst consensus: avg PT ~$193-202; 13 Buy, 4 Hold, 0 Sell (25 analysts); FY2026 consensus EPS $8.58. Shares: ~1,550M diluted. Market cap: ~$292B. Forward P/E: ~22x (188.46/8.58). Dividend yield: ~3.1%. Action = watch: at $188 near ATH, base IRR 10%; add threshold ~$160-165 for 13%+ IRR. Scenario revenue in USD billions."
+      "notes": "First full review 2026-05-23. Price $188.46 (52-week range $142.33-$193.05; near all-time high $191.86 on May 14, 2026). All figures in USD. FY2025: net revenue ~$41B; smoke-free $17B = 41.5% of total; reported diluted EPS $7.26; adj diluted EPS $7.54 (+14.2% currency-neutral); quarterly dividend raised to $1.47/share ($5.88 annualized) \u2014 largest increase in over a decade; smoke-free shipment volume +12.8%; IQOS est. 43M adult consumers in 106 markets; ZYN 794M cans (+37% YoY), $3.24B sales, 70% US market share. Q1 2026: revenue $10.1B (+9.1% YoY, beat $9.89B est); adj EPS $1.96 (+16% YoY, beat $1.83 est); reported EPS $1.56 (-9.3% YoY on non-cash investment impacts); smoke-free 43% of net revenues (+24.7% YoY); IQOS overtook Marlboro as PM's #1 brand by volume. FY2026 adj EPS guidance raised to $8.36-$8.51 (+10.9-12.9% YoY). 2026-2028 growth algorithm: 6-8% organic revenue CAGR, 8-10% operating income, 9-11% adj diluted EPS excl. currency. Balance sheet: LTD $48.7B (Dec 2025); net debt/EBITDA ~2.2x (preferred <2x); investment grade. Jan 2026 org restructure: PMI International + PMI U.S. (new unit post-Swedish Match) + Aspeya wellness. CEO: Jacek Olczak (Group CEO since May 2021); owns 632,344 shares ($101M); comp $20.24M/yr (91.6% stock). No fraud/investigation/restatement flags found. FDA: ZYN authorized for 20 products (10 flavors, 3mg+6mg) January 2026 \u2014 first nicotine pouch brand with FDA authorization; MRTP (modified risk) consideration ongoing with public meeting Jan 2026. ZYN Ultra PMTA pending in FDA pilot program. Analyst consensus: avg PT ~$193-202; 13 Buy, 4 Hold, 0 Sell (25 analysts); FY2026 consensus EPS $8.58. Shares: ~1,550M diluted. Market cap: ~$292B. Forward P/E: ~22x (188.46/8.58). Dividend yield: ~3.1%. Action = watch: at $188 near ATH, base IRR 10%; add threshold ~$160-165 for 13%+ IRR. Scenario revenue in USD billions.",
+      "earnings_notes": ""
     },
     {
       "ticker": "PINS",
@@ -775,22 +783,22 @@
         "eps_est": 0.23,
         "eps_growth": 17
       },
-      "thesis_summary": "Pinterest is a 630M+ MAU visual discovery platform whose Taste Graph — trained on billions of images — creates intent-rich data for advertisers at the inspiration-to-purchase moment. Revenue +18% YoY in Q1 2026 ($1.01B) with Q2 guided +14-16%; AI shopping ads (Performance+, 30% of lower-funnel revenue), CTV via tvScientific acquisition, and Elliott Management's $1B investment validate the strategic direction. Watch: securities fraud class action (lead plaintiff deadline May 29), international ARPU monetization pace, and GAAP profitability timeline.",
+      "thesis_summary": "Pinterest is a 630M+ MAU visual discovery platform whose Taste Graph \u2014 trained on billions of images \u2014 creates intent-rich data for advertisers at the inspiration-to-purchase moment. Revenue +18% YoY in Q1 2026 ($1.01B) with Q2 guided +14-16%; AI shopping ads (Performance+, 30% of lower-funnel revenue), CTV via tvScientific acquisition, and Elliott Management's $1B investment validate the strategic direction. Watch: securities fraud class action (lead plaintiff deadline May 29), international ARPU monetization pace, and GAAP profitability timeline.",
       "key_risks": [
-        "Securities fraud class action (class period Feb 7, 2025 - Feb 12, 2026) — CEO/CFO alleged to have misled investors on ad revenue guidance; stock lost $12.77/share (-39%) across three corrective disclosures; settlement/judgment risk unresolved",
-        "Instagram Shopping and TikTok Shop intensifying competition for lower-funnel commerce intent — Pinterest's differentiation depends on maintaining relevance at the inspiration stage of purchase",
-        "International ARPU monetization gap: US ~$6.7/user vs international ~$0.5/user — closing this gap is the entire long-term thesis; slow Performance+ adoption outside NA is the key execution risk",
-        "Elliott $1B convertible (conversion price $22.72, matures 2031) — dilution above $22.72; $3.5B buyback program strains cash if revenue misses again",
-        "GAAP losses persist (Q1 2026: -$73.59M) despite $207M adj EBITDA — SBC ~$150M+/quarter; profitability timeline unclear and at risk if ad market softens"
+        "Securities fraud class action (class period Feb 7, 2025 - Feb 12, 2026) \u2014 CEO/CFO alleged to have misled investors on ad revenue guidance; stock lost $12.77/share (-39%) across three corrective disclosures; settlement/judgment risk unresolved",
+        "Instagram Shopping and TikTok Shop intensifying competition for lower-funnel commerce intent \u2014 Pinterest's differentiation depends on maintaining relevance at the inspiration stage of purchase",
+        "International ARPU monetization gap: US ~$6.7/user vs international ~$0.5/user \u2014 closing this gap is the entire long-term thesis; slow Performance+ adoption outside NA is the key execution risk",
+        "Elliott $1B convertible (conversion price $22.72, matures 2031) \u2014 dilution above $22.72; $3.5B buyback program strains cash if revenue misses again",
+        "GAAP losses persist (Q1 2026: -$73.59M) despite $207M adj EBITDA \u2014 SBC ~$150M+/quarter; profitability timeline unclear and at risk if ad market softens"
       ],
       "red_flags": [
-        "🔴 Securities fraud class action — Levi & Korsinsky and multiple firms allege CEO/CFO misled investors on advertising revenues (class period Feb 7, 2025 - Feb 12, 2026); stock fell from $32.91 to $15.42 (-53%) across three corrective disclosures; lead plaintiff deadline May 29, 2026; early stage but material",
-        "🟡 Q4 2025 revenue miss + soft Q1 2026 guidance: $1.32B vs $1.33B est; guided Q1 to $951-971M vs $981.8M consensus — tariff headwinds from retail advertisers caught management off-guard; stock -17% post-Q4",
-        "🟡 GAAP net loss persists (Q1 2026: -$73.59M, -$0.12/share) despite adj EBITDA $207M — SBC is structural drag; timeline to sustainable GAAP profitability unclear",
-        "🟡 Stock -52% from 52-week high of $39.92; still below Elliott convertible conversion price ($22.72); significant overhead resistance in recovery mode"
+        "\ud83d\udd34 Securities fraud class action \u2014 Levi & Korsinsky and multiple firms allege CEO/CFO misled investors on advertising revenues (class period Feb 7, 2025 - Feb 12, 2026); stock fell from $32.91 to $15.42 (-53%) across three corrective disclosures; lead plaintiff deadline May 29, 2026; early stage but material",
+        "\ud83d\udfe1 Q4 2025 revenue miss + soft Q1 2026 guidance: $1.32B vs $1.33B est; guided Q1 to $951-971M vs $981.8M consensus \u2014 tariff headwinds from retail advertisers caught management off-guard; stock -17% post-Q4",
+        "\ud83d\udfe1 GAAP net loss persists (Q1 2026: -$73.59M, -$0.12/share) despite adj EBITDA $207M \u2014 SBC is structural drag; timeline to sustainable GAAP profitability unclear",
+        "\ud83d\udfe1 Stock -52% from 52-week high of $39.92; still below Elliott convertible conversion price ($22.72); significant overhead resistance in recovery mode"
       ],
       "notes": "Reviewed 2026-05-12. Price ~$19 (post Q1-2026 +15% earnings reaction; 52-week range $13.85-$39.92). Q1 2026: Revenue $1.01B (+18% YoY, beat $966M est), adj EPS $0.27 (beat $0.23 est), adj EBITDA $207M (beat $176M est), GAAP net loss -$73.59M (-$0.12/share). MAU 631M (+11% YoY). ARPU $1.61 (beat $1.54). Q2 2026 guidance: $1.133-1.153B (+14-16%), adj EBITDA $256-276M. Securities fraud class action filed (multiple firms); class period Feb 7, 2025 - Feb 12, 2026; lead plaintiff deadline May 29, 2026. Elliott Management $1B convertible (March 3, 2026; conversion price $22.72, 30% premium to then-price; matures 2031; 1.75% coupon). $3.5B buyback program ($2B targeted H1 2026). tvScientific closed Feb 17, 2026 (~$300-350M acquisition; ~$100M ARR; CTV performance advertising). CEO Bill Ready (ex-Google/PayPal) since June 2022. Insider ownership ~7-8%; CEO holds ~1.93M shares. Board adding Kecia Steelman (retail veteran). Glassdoor: mixed reviews, some execution/direction concerns. Analyst consensus: 26 Buy, avg PT $27 (42% upside). FY2026 consensus EPS $1.96. Shares outstanding: 560M. Market cap ~$10.8B. Scenario revenue in USD billions.",
-      "target_year": 2031
+      "earnings_notes": ""
     },
     {
       "ticker": "NVDA",
@@ -838,7 +846,8 @@
       "thesis_summary": "",
       "key_risks": [],
       "red_flags": [],
-      "notes": ""
+      "notes": "",
+      "earnings_notes": ""
     },
     {
       "ticker": "MSFT",
@@ -910,20 +919,21 @@
         "eps_est": 4.07,
         "eps_growth": 23
       },
-      "thesis_summary": "Microsoft is the world's most complete enterprise technology stack — Office 365 (400M+ commercial users), Azure (second-largest cloud at +40% cc growth), GitHub (100M+ developers), Teams, LinkedIn, and Copilot create layered moats where enterprise switching cost is effectively infinite for large organizations. The AI business crossed a $37B annualized run rate in Q3 FY2026 while Copilot paid seats grew 33% sequentially to 20M — monetization is real and accelerating even though 20M seats against 400M+ eligible users means the Copilot upsell is still in the first innings. Azure acceleration (+40% cc in Q3 vs +38% Q2) is the key leading indicator: each Azure infrastructure commitment is a 5-10 year relationship. Watch: whether Copilot seats exceed 50M in FY2027 (thesis-confirming) and whether FCF recovers from the capex trough in 2027-28 as management has guided.",
+      "thesis_summary": "Microsoft is the world's most complete enterprise technology stack \u2014 Office 365 (400M+ commercial users), Azure (second-largest cloud at +40% cc growth), GitHub (100M+ developers), Teams, LinkedIn, and Copilot create layered moats where enterprise switching cost is effectively infinite for large organizations. The AI business crossed a $37B annualized run rate in Q3 FY2026 while Copilot paid seats grew 33% sequentially to 20M \u2014 monetization is real and accelerating even though 20M seats against 400M+ eligible users means the Copilot upsell is still in the first innings. Azure acceleration (+40% cc in Q3 vs +38% Q2) is the key leading indicator: each Azure infrastructure commitment is a 5-10 year relationship. Watch: whether Copilot seats exceed 50M in FY2027 (thesis-confirming) and whether FCF recovers from the capex trough in 2027-28 as management has guided.",
       "key_risks": [
-        "Google Cloud +63% YoY in Q1 2026 vs Azure +40% cc — GCP gaining cloud share faster; if this differential persists for 3+ quarters, Azure's claimed durable #2 cloud position weakens and the premium valuation narrows",
-        "Capex ~$130B FY2026 (doubled from ~$60B FY2025) — FCF compression in 2026-2027; AI ROI must materialize in 2027-2028 to justify; any sustained deceleration in Azure AI demand would signal capex overshoot and trigger multiple de-rate",
-        "Copilot enterprise adoption slower than expected — 20M paid seats vs 400M+ commercial Office users; at $30/user/month, full penetration is a multi-year runway but slow uptake in SMB or cost-sensitive segments delays the step-change in revenue per user",
-        "OpenAI partnership concentration risk — Microsoft's AI advantage substantially derived from the OpenAI relationship ($13B+ investment); any GPT/Anthropic/Gemini competitive shift, AGI ownership disputes, or OpenAI commercial strategy change could erode Azure AI's differentiation vs Google/Amazon",
+        "Google Cloud +63% YoY in Q1 2026 vs Azure +40% cc \u2014 GCP gaining cloud share faster; if this differential persists for 3+ quarters, Azure's claimed durable #2 cloud position weakens and the premium valuation narrows",
+        "Capex ~$130B FY2026 (doubled from ~$60B FY2025) \u2014 FCF compression in 2026-2027; AI ROI must materialize in 2027-2028 to justify; any sustained deceleration in Azure AI demand would signal capex overshoot and trigger multiple de-rate",
+        "Copilot enterprise adoption slower than expected \u2014 20M paid seats vs 400M+ commercial Office users; at $30/user/month, full penetration is a multi-year runway but slow uptake in SMB or cost-sensitive segments delays the step-change in revenue per user",
+        "OpenAI partnership concentration risk \u2014 Microsoft's AI advantage substantially derived from the OpenAI relationship ($13B+ investment); any GPT/Anthropic/Gemini competitive shift, AGI ownership disputes, or OpenAI commercial strategy change could erode Azure AI's differentiation vs Google/Amazon",
         "Regulatory: EU DMA compliance costs on Teams bundling, potential US DOJ scrutiny of OpenAI investment terms; operational overhead from compliance reduces margin upside but unlikely to be structurally threatening"
       ],
       "red_flags": [
-        "🟡 Capex tracking ~$130B FY2026 (doubled from ~$60B FY2025) — near-term FCF impact; management expects returns to concentrate in 2027-2028; if Azure growth decelerates below 25%, capex becomes a multiple headwind and FCF recovery timeline slips",
-        "🟡 Google Cloud +63% YoY (Q1 2026) vs Azure +40% cc — GCP gaining ground faster; sustained faster GCP growth challenges the narrative that Azure's enterprise relationships are unassailable",
-        "🟡 CEO Nadella sold $75.3M MSFT via 10b5-1 plan (Sept 3, 2025 — routine RSU vesting + pre-planned sale); retains ~786K shares (~$330M); no insider buying on record — consistent with executive compensation planning rather than conviction signal"
+        "\ud83d\udfe1 Capex tracking ~$130B FY2026 (doubled from ~$60B FY2025) \u2014 near-term FCF impact; management expects returns to concentrate in 2027-2028; if Azure growth decelerates below 25%, capex becomes a multiple headwind and FCF recovery timeline slips",
+        "\ud83d\udfe1 Google Cloud +63% YoY (Q1 2026) vs Azure +40% cc \u2014 GCP gaining ground faster; sustained faster GCP growth challenges the narrative that Azure's enterprise relationships are unassailable",
+        "\ud83d\udfe1 CEO Nadella sold $75.3M MSFT via 10b5-1 plan (Sept 3, 2025 \u2014 routine RSU vesting + pre-planned sale); retains ~786K shares (~$330M); no insider buying on record \u2014 consistent with executive compensation planning rather than conviction signal"
       ],
-      "notes": "First full review 2026-05-24. Price ~$419 (implied from analyst consensus PT $560.63 at +33.9% upside; min PT $400 at -4.44%). All figures USD. Q3 FY2026 (Apr 29, 2026): Revenue $82.9B (+18% YoY; beat $81.4B); GAAP EPS $4.27 (+23% YoY; beat $4.07); operating income $38.4B (+20%, 46.3% margin). Segments: Intelligent Cloud $34.7B (+30% YoY); Productivity & Business Processes $35.0B (+17%); More Personal Computing ~$13.2B (approx flat). Azure +40% cc (accelerating from +38% cc Q2 FY2026; beat ~37-38% consensus). Total Microsoft Cloud $54.5B (+29% YoY). AI annualized run rate: $37B. Copilot commercial paid seats: 20M (+33% sequential from 15M in Jan 2026). OpenAI: investment losses -$14M net in Q3 FY2026 (vs Amazon's +$16.8B Anthropic gain — minimal, not a distortion). FY2026 capex: $80.1B through 9 months (vs $47.5B comparable prior period); annualized ~$105-130B; CNBC reports Microsoft stated $190B in total 2026 capital commitments (including operating leases). FCF: Q1 FY2026 $25.7B (+33% YoY); some quarter-to-quarter compression from capex phasing. Dividend: $0.83/qtr ($3.32/yr annualized); yield ~0.8%; consistent ~10% annual dividend growth. FY2025 EPS ~$15.99; FY2026E consensus EPS $16.92 (+5.8% — capex D&A suppresses net income growth vs revenue growth, temporary). FY2026E revenue ~$320B (~+15% YoY from FY2025 ~$279B). Shares: ~7.42B diluted. Market cap: ~$3.1T. Forward P/E: ~24.8x FY2026E. FY2027: management guided 'another year of double-digit revenue and operating income growth.' CEO Satya Nadella: Chairman + CEO since 2014; owns ~786K shares (~$330M); sold $75.3M via 10b5-1 plan Sept 2025 (308,870 RSUs vested; ~122K withheld taxes; balance sold per pre-arranged plan). Glassdoor: 4.4/5 (53,537 reviews); CEO approval 90%+. No fraud/SEC investigation/restatement found. Analyst consensus: avg PT ~$560-563; 55-71 analysts; Strong Buy; range $400-$730. Action = hold: 18% base IRR at $419 is attractive for this quality but 5.04% weight already meaningful in tech-heavy portfolio. Scenario revenue in USD billions."
+      "notes": "First full review 2026-05-24. Price ~$419 (implied from analyst consensus PT $560.63 at +33.9% upside; min PT $400 at -4.44%). All figures USD. Q3 FY2026 (Apr 29, 2026): Revenue $82.9B (+18% YoY; beat $81.4B); GAAP EPS $4.27 (+23% YoY; beat $4.07); operating income $38.4B (+20%, 46.3% margin). Segments: Intelligent Cloud $34.7B (+30% YoY); Productivity & Business Processes $35.0B (+17%); More Personal Computing ~$13.2B (approx flat). Azure +40% cc (accelerating from +38% cc Q2 FY2026; beat ~37-38% consensus). Total Microsoft Cloud $54.5B (+29% YoY). AI annualized run rate: $37B. Copilot commercial paid seats: 20M (+33% sequential from 15M in Jan 2026). OpenAI: investment losses -$14M net in Q3 FY2026 (vs Amazon's +$16.8B Anthropic gain \u2014 minimal, not a distortion). FY2026 capex: $80.1B through 9 months (vs $47.5B comparable prior period); annualized ~$105-130B; CNBC reports Microsoft stated $190B in total 2026 capital commitments (including operating leases). FCF: Q1 FY2026 $25.7B (+33% YoY); some quarter-to-quarter compression from capex phasing. Dividend: $0.83/qtr ($3.32/yr annualized); yield ~0.8%; consistent ~10% annual dividend growth. FY2025 EPS ~$15.99; FY2026E consensus EPS $16.92 (+5.8% \u2014 capex D&A suppresses net income growth vs revenue growth, temporary). FY2026E revenue ~$320B (~+15% YoY from FY2025 ~$279B). Shares: ~7.42B diluted. Market cap: ~$3.1T. Forward P/E: ~24.8x FY2026E. FY2027: management guided 'another year of double-digit revenue and operating income growth.' CEO Satya Nadella: Chairman + CEO since 2014; owns ~786K shares (~$330M); sold $75.3M via 10b5-1 plan Sept 2025 (308,870 RSUs vested; ~122K withheld taxes; balance sold per pre-arranged plan). Glassdoor: 4.4/5 (53,537 reviews); CEO approval 90%+. No fraud/SEC investigation/restatement found. Analyst consensus: avg PT ~$560-563; 55-71 analysts; Strong Buy; range $400-$730. Action = hold: 18% base IRR at $419 is attractive for this quality but 5.04% weight already meaningful in tech-heavy portfolio. Scenario revenue in USD billions.",
+      "earnings_notes": ""
     },
     {
       "ticker": "V",
@@ -991,22 +1001,23 @@
         "revenue_actual": 11.23,
         "revenue_est": 10.75,
         "eps_actual": 3.31,
-        "eps_est": 3.10
+        "eps_est": 3.1
       },
-      "thesis_summary": "Visa is the world's largest payments network — 4.5B+ cards and 130M+ merchant acceptance points create a two-sided moat that compounds every year as electronic payments displace cash globally. The toll-road model (fraction of every global transaction) generates 55%+ net margins with minimal reinvestment needed. Key watch: DOJ debit antitrust case (trial expected 2027-2028) could force structural changes to pricing; stablecoin/AI-agent routing around interchange is the longer-term moat test.",
+      "thesis_summary": "Visa is the world's largest payments network \u2014 4.5B+ cards and 130M+ merchant acceptance points create a two-sided moat that compounds every year as electronic payments displace cash globally. The toll-road model (fraction of every global transaction) generates 55%+ net margins with minimal reinvestment needed. Key watch: DOJ debit antitrust case (trial expected 2027-2028) could force structural changes to pricing; stablecoin/AI-agent routing around interchange is the longer-term moat test.",
       "key_risks": [
-        "DOJ antitrust monopoly suit (debit market) — motion to dismiss denied June 2025; fact discovery closes Oct 2026, trial likely 2027-2028; forced remedy could cap debit interchange or require network open access",
-        "AI agents + stablecoin bypass — Citrini Research flags AI optimizing away 2-3% interchange by routing via USDC/stablecoins; Stripe/Bridge building competing infrastructure ($1.9T payment volume 2025)",
-        "Trump credit card interest rate cap proposal (10% ceiling) — reduces bank incentive to issue Visa cards, pressures payments volume growth",
-        "Cross-border volume concentration — ~30% of net revenue is high-margin cross-border; geopolitical disruption or travel slowdown compresses the most valuable segment",
-        "CEO selling pattern — 37 sells, 0 buys over 5 years; $10.7M sale on April 29, 2026 (day after earnings beat) signals limited personal conviction at current prices"
+        "DOJ antitrust monopoly suit (debit market) \u2014 motion to dismiss denied June 2025; fact discovery closes Oct 2026, trial likely 2027-2028; forced remedy could cap debit interchange or require network open access",
+        "AI agents + stablecoin bypass \u2014 Citrini Research flags AI optimizing away 2-3% interchange by routing via USDC/stablecoins; Stripe/Bridge building competing infrastructure ($1.9T payment volume 2025)",
+        "Trump credit card interest rate cap proposal (10% ceiling) \u2014 reduces bank incentive to issue Visa cards, pressures payments volume growth",
+        "Cross-border volume concentration \u2014 ~30% of net revenue is high-margin cross-border; geopolitical disruption or travel slowdown compresses the most valuable segment",
+        "CEO selling pattern \u2014 37 sells, 0 buys over 5 years; $10.7M sale on April 29, 2026 (day after earnings beat) signals limited personal conviction at current prices"
       ],
       "red_flags": [
-        "🔴 DOJ antitrust case on debit monopoly actively in discovery — motion to dismiss denied; trial 2027-2028; structural remedy risk to the debit business is real and unresolved",
-        "🟡 CEO McInerney: 37 Form 4 sells, 0 buys across 5 years; sold $10.7M on April 29, 2026 (immediately post-earnings beat at $340/share) — no skin in the game at current prices",
-        "🟡 Stablecoin volume $33T in 2025 (+72% YoY) — growing faster than card volumes; AI-agent commerce may route around interchange if cost optimization wins"
+        "\ud83d\udd34 DOJ antitrust case on debit monopoly actively in discovery \u2014 motion to dismiss denied; trial 2027-2028; structural remedy risk to the debit business is real and unresolved",
+        "\ud83d\udfe1 CEO McInerney: 37 Form 4 sells, 0 buys across 5 years; sold $10.7M on April 29, 2026 (immediately post-earnings beat at $340/share) \u2014 no skin in the game at current prices",
+        "\ud83d\udfe1 Stablecoin volume $33T in 2025 (+72% YoY) \u2014 growing faster than card volumes; AI-agent commerce may route around interchange if cost optimization wins"
       ],
-      "notes": "Reviewed 2026-05-12. Price $323 (down ~19% from ~$400 highs on DOJ/stablecoin fears). Q2 FY2026: revenue $11.23B (+17% YoY, strongest since 2022), non-GAAP EPS $3.31 vs $3.10 est. FY2026 guidance raised to low-double to low-teens revenue growth, EPS low-teens. FY2026 consensus EPS $13.10 → forward PE ~24.7x. FY2027 EPS $14.81. 5yr rev CAGR ~9%, EPS CAGR ~12-13%. $33B total buyback capacity; $11.7B repurchased YTD H1 FY2026. Stablecoin settlement now live across 9 blockchains at $7B annualized run rate — Visa positioning as settlement infrastructure, not just card rail. Glassdoor 3.8/5, ~92% CEO approval."
+      "notes": "Reviewed 2026-05-12. Price $323 (down ~19% from ~$400 highs on DOJ/stablecoin fears). Q2 FY2026: revenue $11.23B (+17% YoY, strongest since 2022), non-GAAP EPS $3.31 vs $3.10 est. FY2026 guidance raised to low-double to low-teens revenue growth, EPS low-teens. FY2026 consensus EPS $13.10 \u2192 forward PE ~24.7x. FY2027 EPS $14.81. 5yr rev CAGR ~9%, EPS CAGR ~12-13%. $33B total buyback capacity; $11.7B repurchased YTD H1 FY2026. Stablecoin settlement now live across 9 blockchains at $7B annualized run rate \u2014 Visa positioning as settlement infrastructure, not just card rail. Glassdoor 3.8/5, ~92% CEO approval.",
+      "earnings_notes": ""
     },
     {
       "ticker": "KTC.BK",
@@ -1054,7 +1065,8 @@
       "thesis_summary": "",
       "key_risks": [],
       "red_flags": [],
-      "notes": ""
+      "notes": "",
+      "earnings_notes": ""
     },
     {
       "ticker": "SPGI",
@@ -1102,7 +1114,8 @@
       "thesis_summary": "",
       "key_risks": [],
       "red_flags": [],
-      "notes": ""
+      "notes": "",
+      "earnings_notes": ""
     },
     {
       "ticker": "KBANK.BK",
@@ -1174,20 +1187,21 @@
         "eps_est": null,
         "eps_growth": 6.35
       },
-      "thesis_summary": "Kasikornbank is Thailand's leading digital bank — K PLUS (24M+ users, #1 banking app in Thailand) and in-house tech arm KBTG create operational and data moat within a regulatory oligopoly. Q1 2026 net profit +6.35% YoY (underlying -2.99% ex THB 1.455B one-off), significantly outperforming peer SCBX; NIM at 2.95% is at the top of management's 2026 guidance range of 2.75-2.95% and benefits from the BOT pause at 1.00%. FY2025 dividend of THB 14/share (incl. THB 2 special) at ~7.1% yield underpins the parking case. Watch: clean underlying earnings in Q2 2026 (no one-off), NIM holding above 2.75% floor, and KBTG/KXVC governance after the 2024-2025 rogue employee incident.",
+      "thesis_summary": "Kasikornbank is Thailand's leading digital bank \u2014 K PLUS (24M+ users, #1 banking app in Thailand) and in-house tech arm KBTG create operational and data moat within a regulatory oligopoly. Q1 2026 net profit +6.35% YoY (underlying -2.99% ex THB 1.455B one-off), significantly outperforming peer SCBX; NIM at 2.95% is at the top of management's 2026 guidance range of 2.75-2.95% and benefits from the BOT pause at 1.00%. FY2025 dividend of THB 14/share (incl. THB 2 special) at ~7.1% yield underpins the parking case. Watch: clean underlying earnings in Q2 2026 (no one-off), NIM holding above 2.75% floor, and KBTG/KXVC governance after the 2024-2025 rogue employee incident.",
       "key_risks": [
-        "NIM compression below 2.75% guidance floor if BOT is forced to cut again — Q1 2026 NIM at 2.95% is already at the top of management's range; any rate reduction pushes NIM to or below the floor, hitting NII which is already -9.79% YoY",
-        "Loan growth capped at 0-2% YoY 2026 guidance — weak credit demand limits NII recovery even with stable NIM; focus on secured loans and high-quality segments constrains top-line expansion",
-        "Thai GDP 1.5% 2026 forecast + household debt 90% GDP — NPL risk in consumer/SME; currently stable at 3.19% but macro backdrop (US tariffs on Thai exports, weak domestic consumption) is challenging",
-        "KXVC governance flag — former board director used forged KXVC documents to defraud crypto investors in 2024-2025 (ceased employment March 31, 2025); reputational overhang on KBTG fintech/Web3 ambitions",
-        "Valuation headroom limited — current price 197 near 52-week high 208; consensus PT ~186 THB is below current; base case IRR entirely dividend-driven with minimal price appreciation in base"
+        "NIM compression below 2.75% guidance floor if BOT is forced to cut again \u2014 Q1 2026 NIM at 2.95% is already at the top of management's range; any rate reduction pushes NIM to or below the floor, hitting NII which is already -9.79% YoY",
+        "Loan growth capped at 0-2% YoY 2026 guidance \u2014 weak credit demand limits NII recovery even with stable NIM; focus on secured loans and high-quality segments constrains top-line expansion",
+        "Thai GDP 1.5% 2026 forecast + household debt 90% GDP \u2014 NPL risk in consumer/SME; currently stable at 3.19% but macro backdrop (US tariffs on Thai exports, weak domestic consumption) is challenging",
+        "KXVC governance flag \u2014 former board director used forged KXVC documents to defraud crypto investors in 2024-2025 (ceased employment March 31, 2025); reputational overhang on KBTG fintech/Web3 ambitions",
+        "Valuation headroom limited \u2014 current price 197 near 52-week high 208; consensus PT ~186 THB is below current; base case IRR entirely dividend-driven with minimal price appreciation in base"
       ],
       "red_flags": [
-        "🟡 Q1 2026 net profit +6.35% YoY includes THB 1,455M one-off compensation income from investment — underlying net profit -2.99% YoY; watch Q2 2026 for clean run-rate confirmation",
-        "🟡 KXVC board director defrauded crypto investors using forged KXVC documents (2024-2025, ceased employment March 31, 2025) — governance caution at fintech arm; no direct KBANK financial liability but reputational risk to KBTG digital strategy",
-        "🟡 Current price THB 197 near 52-week high THB 208; consensus analyst average PT ~THB 186 (below current) — technically extended with limited near-term upside on price"
+        "\ud83d\udfe1 Q1 2026 net profit +6.35% YoY includes THB 1,455M one-off compensation income from investment \u2014 underlying net profit -2.99% YoY; watch Q2 2026 for clean run-rate confirmation",
+        "\ud83d\udfe1 KXVC board director defrauded crypto investors using forged KXVC documents (2024-2025, ceased employment March 31, 2025) \u2014 governance caution at fintech arm; no direct KBANK financial liability but reputational risk to KBTG digital strategy",
+        "\ud83d\udfe1 Current price THB 197 near 52-week high THB 208; consensus analyst average PT ~THB 186 (below current) \u2014 technically extended with limited near-term upside on price"
       ],
-      "notes": "First full review 2026-05-23. Price THB 197.0 (52-week range 147-208; +18% YTD). All figures in THB — not USD. Q1 2026: net profit THB 14,667M (+6.35% YoY) incl. THB 1,455M one-off compensation; underlying net profit THB 13,212M (-2.99% YoY); total operating income THB 49,521M (+0.85% YoY); NII THB 31,957M (-9.79% YoY); NIM 2.95% (vs 3.41% Q1 2025); other opex THB 19,279M (-3.85% YoY); C/I ratio ~38.9% (well below mid-40s guidance); NPL 3.19% stable; coverage ratio 171.72%. FY2025: EPS THB 20.63; CET1 18.0%; total dividend THB 14/share (interim THB 2 + final THB 12 incl. THB 2 special); payout 67.4%. Trailing yield ~7.1% at 197. Shares: ~2,393M. Market cap: ~THB 471B. P/E ~9.5x trailing FY2025; ~8.9x annualised Q1 2026 underlying. P/BV ~1.0x. DIVIDEND POLICY: Formally raised minimum payout from 25% to >=50%; medium-term target 50-60%. Special dividend (THB 2/share) paid in both FY2024 and FY2025; analysts expect it to continue in FY2026. Total FY2026E dividend: ~THB 14-15/share; forward yield ~7.1-7.6% — dividend is sustainable, no cut risk at this payout level. FY2026E underlying net profit: ~THB 51-53B (+3-7% YoY); FY2027E: ~THB 53-57B as NIM floors out and loan growth re-accelerates to 3-5%. 2026 management guidance: loan growth 0-2%, NIM 2.75-2.95%, fee income mid-to-high single-digit growth, C/I mid-40s, ROE double-digit. Digital: K PLUS 24M+ users; KBTG in-house tech arm provides genuine data/tech advantage; KXVC $100M AI/Web3 VC fund (post-scandal). CEO: Kattiya Indaravijaya (since 2016, one of Thailand's most prominent bank executives). Controlling shareholder: Kasikorn Vision (Lamsam family descendants). Glassdoor 4.0/5; 74% recommend. No fraud/investigation at KBANK level; KXVC rogue employee incident contained at subsidiary level. Analyst consensus: avg PT ~186 THB (range 142-230+; 25 analysts), KSS top pick PT THB 230. BOT paused at 1.00% after Feb 2026 cut — positive for NIM floor. Scenario revenue in THB billions (total operating income)."
+      "notes": "First full review 2026-05-23. Price THB 197.0 (52-week range 147-208; +18% YTD). All figures in THB \u2014 not USD. Q1 2026: net profit THB 14,667M (+6.35% YoY) incl. THB 1,455M one-off compensation; underlying net profit THB 13,212M (-2.99% YoY); total operating income THB 49,521M (+0.85% YoY); NII THB 31,957M (-9.79% YoY); NIM 2.95% (vs 3.41% Q1 2025); other opex THB 19,279M (-3.85% YoY); C/I ratio ~38.9% (well below mid-40s guidance); NPL 3.19% stable; coverage ratio 171.72%. FY2025: EPS THB 20.63; CET1 18.0%; total dividend THB 14/share (interim THB 2 + final THB 12 incl. THB 2 special); payout 67.4%. Trailing yield ~7.1% at 197. Shares: ~2,393M. Market cap: ~THB 471B. P/E ~9.5x trailing FY2025; ~8.9x annualised Q1 2026 underlying. P/BV ~1.0x. DIVIDEND POLICY: Formally raised minimum payout from 25% to >=50%; medium-term target 50-60%. Special dividend (THB 2/share) paid in both FY2024 and FY2025; analysts expect it to continue in FY2026. Total FY2026E dividend: ~THB 14-15/share; forward yield ~7.1-7.6% \u2014 dividend is sustainable, no cut risk at this payout level. FY2026E underlying net profit: ~THB 51-53B (+3-7% YoY); FY2027E: ~THB 53-57B as NIM floors out and loan growth re-accelerates to 3-5%. 2026 management guidance: loan growth 0-2%, NIM 2.75-2.95%, fee income mid-to-high single-digit growth, C/I mid-40s, ROE double-digit. Digital: K PLUS 24M+ users; KBTG in-house tech arm provides genuine data/tech advantage; KXVC $100M AI/Web3 VC fund (post-scandal). CEO: Kattiya Indaravijaya (since 2016, one of Thailand's most prominent bank executives). Controlling shareholder: Kasikorn Vision (Lamsam family descendants). Glassdoor 4.0/5; 74% recommend. No fraud/investigation at KBANK level; KXVC rogue employee incident contained at subsidiary level. Analyst consensus: avg PT ~186 THB (range 142-230+; 25 analysts), KSS top pick PT THB 230. BOT paused at 1.00% after Feb 2026 cut \u2014 positive for NIM floor. Scenario revenue in THB billions (total operating income).",
+      "earnings_notes": ""
     },
     {
       "ticker": "BBL.BK",
@@ -1235,7 +1249,8 @@
       "thesis_summary": "",
       "key_risks": [],
       "red_flags": [],
-      "notes": ""
+      "notes": "",
+      "earnings_notes": ""
     },
     {
       "ticker": "ASML",
@@ -1283,7 +1298,8 @@
       "thesis_summary": "",
       "key_risks": [],
       "red_flags": [],
-      "notes": ""
+      "notes": "",
+      "earnings_notes": ""
     },
     {
       "ticker": "META",
@@ -1291,7 +1307,7 @@
       "weight": 6.76,
       "type": "equity",
       "current_price": 608.0,
-      "last_review_date": "2026-05-23",
+      "last_review_date": "2026-05-24",
       "thesis_status": "intact",
       "action": "hold",
       "target_year": 2031,
@@ -1355,24 +1371,24 @@
         "eps_est": 6.67,
         "eps_growth": 61
       },
-      "thesis_summary": "Meta's family of apps reaches 3.27B+ daily active people, with Q1 2026 confirming the AI monetization cycle is working: +33% revenue, +19% ad impressions, +12% price per ad — volume and price compounding simultaneously. The May 2026 workforce restructuring (8,000 cut, 7,000 redirected into AI teams — 20% of workforce affected) echoes the 2022-2023 'Year of Efficiency,' signalling capital discipline alongside $125-145B capex; WhatsApp Business AI scaling from 1M to 10M weekly conversations in 4 months is the first evidence of the AI commerce monetization loop activating. FTC appeal at D.C. Circuit (oral arguments expected late summer 2026) is the primary structural tail risk, with the unproven ROI on unprecedented capex as the defining execution variable.",
+      "thesis_summary": "Meta's family of apps reaches 3.27B+ daily active people, with Q1 2026 confirming the AI monetization cycle is working: +33% revenue, +19% ad impressions, +12% price per ad \u2014 volume and price compounding simultaneously. The May 2026 workforce restructuring (8,000 cut, 7,000 redirected into AI teams \u2014 20% of workforce affected) echoes the 2022-2023 'Year of Efficiency,' signalling capital discipline alongside $125-145B capex; WhatsApp Business AI scaling from 1M to 10M weekly conversations in 4 months is the first evidence of the AI commerce monetization loop activating. FTC appeal at D.C. Circuit (oral arguments expected late summer 2026) is the primary structural tail risk, with the unproven ROI on unprecedented capex as the defining execution variable.",
       "key_risks": [
-        "2026 CapEx $125-145B (raised again from $115-135B); multi-year infra commitments jumped $107B in one quarter; CoreWeave $21B deal through 2032 — FCF near-zero in 2026; if AI ROI disappoints across multiple years, multiple de-rates sharply",
-        "FTC antitrust appeal at D.C. Circuit — supplemental briefing complete May 2026; oral arguments expected late summer/autumn 2026; forced Instagram/WhatsApp divestiture is a real structural tail risk",
-        "Reality Labs ~$20B annual operating loss run rate ($60B+ cumulative since 2019) — no monetization timeline; AI wearables (Orion glasses) are promising but years from revenue scale",
+        "2026 CapEx $125-145B (raised again from $115-135B); multi-year infra commitments jumped $107B in one quarter; CoreWeave $21B deal through 2032 \u2014 FCF near-zero in 2026; if AI ROI disappoints across multiple years, multiple de-rates sharply",
+        "FTC antitrust appeal at D.C. Circuit \u2014 supplemental briefing complete May 2026; oral arguments expected late summer/autumn 2026; forced Instagram/WhatsApp divestiture is a real structural tail risk",
+        "Reality Labs ~$20B annual operating loss run rate ($60B+ cumulative since 2019) \u2014 no monetization timeline; AI wearables (Orion glasses) are promising but years from revenue scale",
         "Child safety litigation: NM $375M verdict (willful deception finding) opens multi-state class action wave; structural reputational and regulatory exposure",
         "AI competitive intensity: Zuckerberg acknowledged 'success isn't a given' in the AI race (May 2026 memo); workforce restructuring signals urgency; Meta AI and shopping agents must scale before competitors embed comparable capabilities into existing platforms"
       ],
       "red_flags": [
-        "🔴 2026 CapEx $125-145B (raised AGAIN from $115-135B); multi-year infra commitments +$107B in one quarter; CoreWeave $21B deal through 2032 — FCF near-zero in 2026; AI ROI unproven at this scale",
-        "🔴 FTC antitrust appeal at D.C. Circuit — supplemental briefing complete May 2026; oral arguments expected late summer/autumn 2026; forced Instagram/WhatsApp divestiture remains a real tail risk",
-        "🟡 May 2026 workforce restructuring: 8,000 cut (~10%), 7,000 redirected to AI teams — 20% of ~80,000 workforce affected; largest restructuring since 2022-2023; Zuckerberg memo stated 'success isn't a given' in AI race; net positive (~$2B+ annual savings) but signals competitive urgency",
-        "🟡 Q1 2026 GAAP EPS $10.44 includes $8.03B one-time tax benefit ('One Big Beautiful Bill Act') — adjusted EPS ~$7.31; adj run rate ~$28-30B annualised; headline beat substantially inflated",
-        "🟡 Reality Labs ~$5B quarterly operating loss (run rate ~$20B/yr); $60B+ cumulative losses since 2019; no clear monetization timeline",
-        "🟡 Zuckerberg 61% voting control on ~13% economic stake — capital allocation unilateral; PAO resigned April 9, 2026; CapEx escalation reflects this dynamic"
+        "\ud83d\udd34 2026 CapEx $125-145B (raised AGAIN from $115-135B); multi-year infra commitments +$107B in one quarter; CoreWeave $21B deal through 2032 \u2014 FCF near-zero in 2026; AI ROI unproven at this scale",
+        "\ud83d\udd34 FTC antitrust appeal at D.C. Circuit \u2014 supplemental briefing complete May 2026; oral arguments expected late summer/autumn 2026; forced Instagram/WhatsApp divestiture remains a real tail risk",
+        "\ud83d\udfe1 May 2026 workforce restructuring: 8,000 cut (~10%), 7,000 redirected to AI teams \u2014 20% of ~80,000 workforce affected; largest restructuring since 2022-2023; Zuckerberg memo stated 'success isn't a given' in AI race; net positive (~$2B+ annual savings) but signals competitive urgency",
+        "\ud83d\udfe1 Q1 2026 GAAP EPS $10.44 includes $8.03B one-time tax benefit ('One Big Beautiful Bill Act') \u2014 adjusted EPS ~$7.31; adj run rate ~$28-30B annualised; headline beat substantially inflated",
+        "\ud83d\udfe1 Reality Labs ~$5B quarterly operating loss (run rate ~$20B/yr); $60B+ cumulative losses since 2019; no clear monetization timeline",
+        "\ud83d\udfe1 Zuckerberg 61% voting control on ~13% economic stake \u2014 capital allocation unilateral; PAO resigned April 9, 2026; CapEx escalation reflects this dynamic"
       ],
-      "notes": "Updated 2026-05-23 (prior review 2026-05-13). KEY NEW ITEM: Meta announced 10% workforce layoff (8,000 employees, May 20-21, 2026) + 7,000 redirected into AI-focused teams (Applied AI Engineering, Agent Transformation Accelerator XFN, Central Analytics) — total ~20% of ~80,000 workforce; no further company-wide layoffs expected in 2026; est. annual savings ~$2B+. Zuckerberg memo: 'success isn't a given' in AI race. WhatsApp Business AI: 10M weekly conversations (up from 1M at start of 2026) — 10x in 4 months, currently free for businesses. FTC D.C. Circuit: supplemental briefing complete May 2026; oral arguments late summer/autumn 2026. Q1 2026 (Apr 29, 2026): Revenue $56.31B (+33% YoY), adj EPS $7.31 (GAAP $10.44 incl. $8.03B one-time tax benefit). Q2 2026 guidance: $58-61B. CapEx $125-145B FY2026 (unchanged). CoreWeave deal $21B through Dec 2032. Next earnings July 29, 2026. Price $603 → $608 since last review. Analyst consensus: avg PT ~$820-840 (range $614-1015; 63 analysts), Strong Buy. Dividend ~$2.10/share/yr. Scenario revenue in USD billions.",
-      "target_year": 2031
+      "notes": "Updated 2026-05-23 (prior review 2026-05-13). KEY NEW ITEM: Meta announced 10% workforce layoff (8,000 employees, May 20-21, 2026) + 7,000 redirected into AI-focused teams (Applied AI Engineering, Agent Transformation Accelerator XFN, Central Analytics) \u2014 total ~20% of ~80,000 workforce; no further company-wide layoffs expected in 2026; est. annual savings ~$2B+. Zuckerberg memo: 'success isn't a given' in AI race. WhatsApp Business AI: 10M weekly conversations (up from 1M at start of 2026) \u2014 10x in 4 months, currently free for businesses. FTC D.C. Circuit: supplemental briefing complete May 2026; oral arguments late summer/autumn 2026. Q1 2026 (Apr 29, 2026): Revenue $56.31B (+33% YoY), adj EPS $7.31 (GAAP $10.44 incl. $8.03B one-time tax benefit). Q2 2026 guidance: $58-61B. CapEx $125-145B FY2026 (unchanged). CoreWeave deal $21B through Dec 2032. Next earnings July 29, 2026. Price $603 \u2192 $608 since last review. Analyst consensus: avg PT ~$820-840 (range $614-1015; 63 analysts), Strong Buy. Dividend ~$2.10/share/yr. Scenario revenue in USD billions.",
+      "earnings_notes": "## META — Q1 2026 Earnings Brief\nReport date: April 29, 2026\n\n### Executive Summary\n| Metric | Actual | Estimate | Delta |\n|---|---|---|---|\n| Revenue | $56.31B | $55.4B | +1.6% beat |\n| Revenue growth (YoY) | +33% | — | Accelerating from +21% in Q4 2025 |\n| EPS (GAAP diluted) | $10.44 | $6.67 | +57% beat* |\n| EPS (adjusted, ex-tax benefit) | ~$7.31 | — | — |\n| Operating Income | $22.87B | — | +30% YoY |\n| Operating Margin | 40.5% | — | vs 38.0% Q1 2025 |\n| Family DAP | 3.56B | — | +4% YoY |\n\n*EPS includes $8.03B one-time tax benefit (\"One Big Beautiful Bill Act\"). Adjusted EPS ~$7.31. Headline beat substantially inflated.\n\n### Segment Breakdown\n- Family of Apps: $55.91B revenue; advertising $55.02B (+33% YoY); ad impressions +19% YoY; price per ad +~12% YoY — volume and price compounding simultaneously\n- Family DAP: 3.56B (+4% YoY); QoQ dip vs 3.61B Q4 2025 — management confirmed geopolitical exclusions (Iran/Russia), not structural\n- Reality Labs: $402M revenue; operating loss -$4.03B (run rate ~$16B/yr); Orion AR glasses in limited commercial testing; no monetization timeline\n\n### Guidance Delta\nQ2 2026 guidance: $58-61B revenue (midpoint $59.5B, +15-18% YoY). FY2026 capex raised again to $125-145B from $115-135B; multi-year infrastructure commitments jumped $107B in Q1 alone; CoreWeave $21B deal through 2032 locked in. FCF near-zero in 2026. Total FY2026 expenses guided $113-123B. Management tone bullish on AI ROI; Zuckerberg framed capex as \"once in a generation\" infrastructure opportunity.\n\n### Key Quotes\nZuckerberg: \"WhatsApp Business AI went from 1 million weekly conversations to 10 million in just the first few months of this year.\"\n\nZuckerberg: \"Our AI studio now has more than 1.4 million monthly active creators, up more than 3x since the beginning of this year.\"\n\nSusan Li (CFO): \"We now expect 2026 total expenses to be in the range of $113-123 billion.\"\n\n### Thesis Check\nReinforces the bull case. Revenue +33% is genuine — ad impressions +19% and price per ad +12% compounding simultaneously is rare and powerful. The AI monetization loop is activating: WhatsApp Business 10x in 4 months, Meta AI scaling. Q2 guidance +15-18% confirms the core ad engine is healthy even as comps get tougher. The capex raise is the only meaningful negative: $125-145B means near-zero FCF in 2026 and AI ROI is unproven at this scale. Thesis: intact and reinforced on the revenue side. Capex ROI is the single variable to watch.\n\n### Red Flags\n- EPS quality: GAAP $10.44 includes $8.03B one-time tax benefit; adjusted ~$7.31 — do not compare headline to prior periods\n- CapEx raised again to $125-145B FY2026 (from $115-135B); multi-year commitments +$107B in Q1; FCF near-zero; AI ROI timeline unproven at this scale\n- DAP QoQ dip: 3.56B vs 3.61B Q4 2025 — management cites Iran/Russia exclusions; watch Q2 for recovery confirmation\n- Stock -7% after-hours on capex raise — market skeptical on unproven AI spend"
     },
     {
       "ticker": "CSPX",
@@ -1420,7 +1436,8 @@
       "thesis_summary": "",
       "key_risks": [],
       "red_flags": [],
-      "notes": ""
+      "notes": "",
+      "earnings_notes": ""
     },
     {
       "ticker": "SABINA.BK",
@@ -1468,7 +1485,8 @@
       "thesis_summary": "",
       "key_risks": [],
       "red_flags": [],
-      "notes": ""
+      "notes": "",
+      "earnings_notes": ""
     },
     {
       "ticker": "BKNG",
@@ -1537,22 +1555,23 @@
         "eps_actual": 1.14,
         "eps_est": 1.08
       },
-      "thesis_summary": "Booking Holdings is the world's dominant OTA — Booking.com, Priceline, KAYAK, Agoda — with ~$53.8B in quarterly gross bookings and unmatched reach across ~90% independent/boutique hotel inventory that cannot be disintermediated by AI chatbots without replicating thousands of B2B supplier relationships. The merchant model (now 72% of bookings, +24% YoY) is structurally widening margins as Booking takes principal risk and captures fuller economics. The key watch item is whether the 2026 revenue growth deceleration to high-single digits is temporary (Middle East headwind, macro) or structural (AI-driven disintermediation).",
+      "thesis_summary": "Booking Holdings is the world's dominant OTA \u2014 Booking.com, Priceline, KAYAK, Agoda \u2014 with ~$53.8B in quarterly gross bookings and unmatched reach across ~90% independent/boutique hotel inventory that cannot be disintermediated by AI chatbots without replicating thousands of B2B supplier relationships. The merchant model (now 72% of bookings, +24% YoY) is structurally widening margins as Booking takes principal risk and captures fuller economics. The key watch item is whether the 2026 revenue growth deceleration to high-single digits is temporary (Middle East headwind, macro) or structural (AI-driven disintermediation).",
       "key_risks": [
-        "AI disintermediation: ChatGPT/Google travel AI enabling direct booking without OTA — BKNG's moat depends on supplier relationships, not just search traffic",
-        "Revenue growth decelerating: FY2026 guided 'high single digits' vs 13.4% in FY2025 — if structural, multiple de-rates",
-        "Middle East geopolitical headwinds: -2pp in Q1, -3pp expected in Q2 2026 — if conflict expands, broader travel demand risk",
-        "EU regulatory pressure: DSA scrutiny, competition investigations in Greece and Hungary — potential fines or platform access restrictions",
-        "Leveraged balance sheet: $31B+ in senior notes outstanding — rising rates or credit tightening constrains buyback-led EPS growth"
+        "AI disintermediation: ChatGPT/Google travel AI enabling direct booking without OTA \u2014 BKNG's moat depends on supplier relationships, not just search traffic",
+        "Revenue growth decelerating: FY2026 guided 'high single digits' vs 13.4% in FY2025 \u2014 if structural, multiple de-rates",
+        "Middle East geopolitical headwinds: -2pp in Q1, -3pp expected in Q2 2026 \u2014 if conflict expands, broader travel demand risk",
+        "EU regulatory pressure: DSA scrutiny, competition investigations in Greece and Hungary \u2014 potential fines or platform access restrictions",
+        "Leveraged balance sheet: $31B+ in senior notes outstanding \u2014 rising rates or credit tightening constrains buyback-led EPS growth"
       ],
       "red_flags": [
-        "🟡 Q2 2026 guidance weak: room nights +2-4%, revenue +4-6% — sharp deceleration from Q1's +6% room nights / +16% revenue; Middle East headwind -3pp across full quarter",
-        "🟡 FY2026 revenue guidance 'high single digits' (~8%) — meaningful step-down from FY2025's 13.4% growth; market watching for structural vs cyclical signal",
-        "🟡 CEO Glenn Fogel consistent seller via 10b5-1 plan; no insider buying from any executive in recent 12 months",
-        "🟡 EU DSA formal scrutiny + national competition investigations (Greece, Hungary) — regulatory risk rising across European core markets"
+        "\ud83d\udfe1 Q2 2026 guidance weak: room nights +2-4%, revenue +4-6% \u2014 sharp deceleration from Q1's +6% room nights / +16% revenue; Middle East headwind -3pp across full quarter",
+        "\ud83d\udfe1 FY2026 revenue guidance 'high single digits' (~8%) \u2014 meaningful step-down from FY2025's 13.4% growth; market watching for structural vs cyclical signal",
+        "\ud83d\udfe1 CEO Glenn Fogel consistent seller via 10b5-1 plan; no insider buying from any executive in recent 12 months",
+        "\ud83d\udfe1 EU DSA formal scrutiny + national competition investigations (Greece, Hungary) \u2014 regulatory risk rising across European core markets"
       ],
       "notes": "Reviewed 2026-05-10. 25-for-1 stock split effective April 2, 2026; all price/EPS figures post-split. FY2025: Revenue $26.9B (+13.4%), EBITDA $9.4B, FCF $9.1B, op margin 32.8%. Market cap ~$137B, ~826M shares post-split. EPS post-split adjusted basis. Analyst consensus: 27 Buy, 11 Hold, 0 Sell; avg PT $234. Merchant model 72% of bookings (up 5pp). Connected Trip growing 3x total Booking.com growth. Q1 2026: $4.0B returned to shareholders (record), $3.6B buybacks + $0.3B dividends. Insider: Fogel ~0.9% ownership post-split; consistent seller, no buying.",
-      "target_year": 2031
+      "target_year": 2031,
+      "earnings_notes": ""
     },
     {
       "ticker": "CRM",
@@ -1600,7 +1619,8 @@
       "thesis_summary": "",
       "key_risks": [],
       "red_flags": [],
-      "notes": ""
+      "notes": "",
+      "earnings_notes": ""
     },
     {
       "ticker": "GOOGL",
@@ -1608,7 +1628,7 @@
       "weight": 11.6,
       "type": "equity",
       "current_price": 387.12,
-      "last_review_date": "2026-05-20",
+      "last_review_date": "2026-05-24",
       "thesis_status": "intact",
       "action": "trim",
       "garp_scores": {
@@ -1671,25 +1691,26 @@
         "eps_est": 2.64,
         "eps_growth": 82
       },
-      "thesis_summary": "Alphabet's AI-era moat is strengthening not weakening: Search queries at all-time highs with AI Overviews, Google Cloud +63% YoY ($462B backlog) on a credible path to rivaling AWS/Azure, and Google I/O 2026 (May 19) unveiled Gemini 3.5 Flash, Gemini Omni, and AI agent Spark with 900M monthly Gemini users and new Cloud customer wins doubling YoY. The $180-190B capex bet (rising further in 2027) compresses FCF to near-zero for 2 years but is producing real wins: $100M+ deal count doubled, Anthropic TPU partnership, $50B Fluidstack AI infrastructure deal. Watch: AdX remedy overdue from Judge Brinkema and D.C. Circuit search case — the two antitrust decisions that determine whether the moat narrows structurally or the thesis holds intact.",
+      "thesis_summary": "Alphabet's AI-era moat is strengthening not weakening: Search queries at all-time highs with AI Overviews, Google Cloud +63% YoY ($462B backlog) on a credible path to rivaling AWS/Azure, and Google I/O 2026 (May 19) unveiled Gemini 3.5 Flash, Gemini Omni, and AI agent Spark with 900M monthly Gemini users and new Cloud customer wins doubling YoY. The $180-190B capex bet (rising further in 2027) compresses FCF to near-zero for 2 years but is producing real wins: $100M+ deal count doubled, Anthropic TPU partnership, $50B Fluidstack AI infrastructure deal. Watch: AdX remedy overdue from Judge Brinkema and D.C. Circuit search case \u2014 the two antitrust decisions that determine whether the moat narrows structurally or the thesis holds intact.",
       "key_risks": [
-        "DOJ search structural remedy at D.C. Circuit — Chrome/Android divestiture or mandatory choice screens; Morgan Stanley estimates choice screens alone could cost 5-8% of search traffic = $15-25B annual revenue; ruling expected late 2026",
-        "AdX forced divestiture overdue — Judge Brinkema missed own March 31, 2026 deadline; forced separation of AdX/Google Ad Manager disrupts the programmatic ad monetization flywheel underpinning search yield",
-        "AI chatbot displacement of search — Perplexity, ChatGPT, competitors structurally displacing simple informational queries before AI Overviews monetizes at equivalent CPCs; query shift could accelerate if OpenAI/Anthropic widen capability gap",
-        "Capex productivity — $180-190B in 2026 with 2027 'significantly higher'; if Cloud/AI returns disappoint by 2028-29, sustained FCF compression leads to multiple de-rating from current elevated levels",
-        "Gemini competitive pressure — Ultra repriced $250→$100/mo at I/O 2026 signals intensifying competition from OpenAI/Anthropic; Gemini's moat depends on capability lead and ecosystem integration, not pricing discipline"
+        "DOJ search structural remedy at D.C. Circuit \u2014 Chrome/Android divestiture or mandatory choice screens; Morgan Stanley estimates choice screens alone could cost 5-8% of search traffic = $15-25B annual revenue; ruling expected late 2026",
+        "AdX forced divestiture overdue \u2014 Judge Brinkema missed own March 31, 2026 deadline; forced separation of AdX/Google Ad Manager disrupts the programmatic ad monetization flywheel underpinning search yield",
+        "AI chatbot displacement of search \u2014 Perplexity, ChatGPT, competitors structurally displacing simple informational queries before AI Overviews monetizes at equivalent CPCs; query shift could accelerate if OpenAI/Anthropic widen capability gap",
+        "Capex productivity \u2014 $180-190B in 2026 with 2027 'significantly higher'; if Cloud/AI returns disappoint by 2028-29, sustained FCF compression leads to multiple de-rating from current elevated levels",
+        "Gemini competitive pressure \u2014 Ultra repriced $250\u2192$100/mo at I/O 2026 signals intensifying competition from OpenAI/Anthropic; Gemini's moat depends on capability lead and ecosystem integration, not pricing discipline"
       ],
       "red_flags": [
-        "🔴 Weight 11.6% vs 7% portfolio maximum — overweight by 65%; trim mechanically and financially justified (base IRR only 6% at $387)",
-        "🔴 DOJ search case at D.C. Circuit — Judge Mehta denied stay of data-sharing order May 8, 2026 (now in effect); DOJ cross-appeal seeks Chrome/Android divestiture; structural breakup decision expected late 2026",
-        "🔴 AdX remedy overdue — Judge Brinkema missed own March 31, 2026 deadline; forced AdX/Google Ad Manager divestiture would disrupt programmatic ad monetization stack; ruling imminent",
-        "🟡 2026 CapEx $180-190B; 2027 to 'significantly increase' — FCF near-zero for 2 years; AI capex ROI unproven at this scale",
-        "🟡 Q1 2026 EPS $5.11 includes $2.35/share non-cash equity securities gains; core operating EPS ~$2.76 ($11 annualized) — headline beat substantially inflated",
-        "🟡 Gemini Ultra repriced $250→$100/mo at I/O 2026 — signals competitive pressure from OpenAI/Anthropic; commoditization risk if capability gap closes",
-        "🟡 Sundar Pichai systematic insider selling — $10.6M (Jan 2026), $9.8M (Mar 2026); PAO resigned April 9, 2026; no insider buying from any leader"
+        "\ud83d\udd34 Weight 11.6% vs 7% portfolio maximum \u2014 overweight by 65%; trim mechanically and financially justified (base IRR only 6% at $387)",
+        "\ud83d\udd34 DOJ search case at D.C. Circuit \u2014 Judge Mehta denied stay of data-sharing order May 8, 2026 (now in effect); DOJ cross-appeal seeks Chrome/Android divestiture; structural breakup decision expected late 2026",
+        "\ud83d\udd34 AdX remedy overdue \u2014 Judge Brinkema missed own March 31, 2026 deadline; forced AdX/Google Ad Manager divestiture would disrupt programmatic ad monetization stack; ruling imminent",
+        "\ud83d\udfe1 2026 CapEx $180-190B; 2027 to 'significantly increase' \u2014 FCF near-zero for 2 years; AI capex ROI unproven at this scale",
+        "\ud83d\udfe1 Q1 2026 EPS $5.11 includes $2.35/share non-cash equity securities gains; core operating EPS ~$2.76 ($11 annualized) \u2014 headline beat substantially inflated",
+        "\ud83d\udfe1 Gemini Ultra repriced $250\u2192$100/mo at I/O 2026 \u2014 signals competitive pressure from OpenAI/Anthropic; commoditization risk if capability gap closes",
+        "\ud83d\udfe1 Sundar Pichai systematic insider selling \u2014 $10.6M (Jan 2026), $9.8M (Mar 2026); PAO resigned April 9, 2026; no insider buying from any leader"
       ],
-      "notes": "Full review 2026-05-20. Q1 2026 earnings 2026-04-29: Revenue $109.9B (+22% YoY, beat $107.2B). Cloud $20.03B (+63%), 32.9% op margin, backlog $462B. Search $60.4B (+19%). YouTube $9.9B (+11%). Services op margin 45.3% (+300bps). EPS $5.11 includes $2.35/share non-cash equity gains; core EPS ~$2.76. CapEx $35.7B Q1; FY2026 guidance $180-190B (raised); 2027 to 'significantly increase.' Dividend raised 5% to $0.22/qtr ($0.88/yr). Google I/O 2026 (May 19): Gemini 3.5 Flash (4x faster than rivals in coding), Gemini Omni (any-to-any model), AI agent Spark; 900M monthly Gemini users; Ultra repriced $250→$100/mo. Cloud wins: customer acquisition doubled YoY, $100M+ deals doubled, Anthropic TPU partnership ($1B+), Fluidstack $50B AI infra deal. DOJ search case: Judge Mehta denied stay May 8, 2026 — data-sharing now in effect; DOJ cross-appeal filed Feb 2026 seeking Chrome/Android divestiture; D.C. Circuit ruling expected late 2026. AdX remedy: Judge Brinkema overdue (missed March 31, 2026 self-imposed deadline); ruling imminent. FY2025: Revenue $402.8B (+15%), Net income $132.2B (32.8% margin), EPS $10.81. Buybacks: $45.7B FY2025, $70B authorization outstanding. Shares ~12.23B diluted. PAO resigned April 9, 2026. Weight 11.6% vs 7% cap. Base IRR 6% at $387.12 (was 10% at $318.50 six weeks ago) — trim to ≤7% remains standing action. Scenario revenue in USD billions.",
-      "target_year": 2031
+      "notes": "Full review 2026-05-20. Q1 2026 earnings 2026-04-29: Revenue $109.9B (+22% YoY, beat $107.2B). Cloud $20.03B (+63%), 32.9% op margin, backlog $462B. Search $60.4B (+19%). YouTube $9.9B (+11%). Services op margin 45.3% (+300bps). EPS $5.11 includes $2.35/share non-cash equity gains; core EPS ~$2.76. CapEx $35.7B Q1; FY2026 guidance $180-190B (raised); 2027 to 'significantly increase.' Dividend raised 5% to $0.22/qtr ($0.88/yr). Google I/O 2026 (May 19): Gemini 3.5 Flash (4x faster than rivals in coding), Gemini Omni (any-to-any model), AI agent Spark; 900M monthly Gemini users; Ultra repriced $250\u2192$100/mo. Cloud wins: customer acquisition doubled YoY, $100M+ deals doubled, Anthropic TPU partnership ($1B+), Fluidstack $50B AI infra deal. DOJ search case: Judge Mehta denied stay May 8, 2026 \u2014 data-sharing now in effect; DOJ cross-appeal filed Feb 2026 seeking Chrome/Android divestiture; D.C. Circuit ruling expected late 2026. AdX remedy: Judge Brinkema overdue (missed March 31, 2026 self-imposed deadline); ruling imminent. FY2025: Revenue $402.8B (+15%), Net income $132.2B (32.8% margin), EPS $10.81. Buybacks: $45.7B FY2025, $70B authorization outstanding. Shares ~12.23B diluted. PAO resigned April 9, 2026. Weight 11.6% vs 7% cap. Base IRR 6% at $387.12 (was 10% at $318.50 six weeks ago) \u2014 trim to \u22647% remains standing action. Scenario revenue in USD billions.",
+      "target_year": 2031,
+      "earnings_notes": "## GOOGL \u2014 Q1 2026 Earnings Brief\nReport date: April 29, 2026\n\n### Executive Summary\n| Metric | Actual | Estimate | Delta |\n|---|---|---|---|\n| Revenue | $109.9B | $107.2B | +2.5% beat |\n| Revenue growth (YoY) | +22% | \u2014 | 11th consecutive double-digit quarter |\n| EPS (GAAP diluted) | $5.11 | $2.64 | +93% beat* |\n| Operating Income | $39.7B | \u2014 | +30% YoY |\n| Operating Margin | 36.1% | \u2014 | +220bps YoY |\n| Free Cash Flow | $10.1B | \u2014 | OCF $45.8B; CapEx drag severe |\n\n*EPS includes ~$2.35/share non-cash equity securities gains. Core operating EPS ~$2.76. Headline beat substantially inflated.\n\n### Segment Breakdown\n| Segment | Revenue | YoY | Note |\n|---|---|---|---|\n| Search & other | $60.4B | +19% | AI Overviews driving query growth; queries at all-time high |\n| YouTube ads | $9.88B | +11% | Decelerating vs Q4; still solid |\n| Google Network | $6.97B | -4% | Structural decline continues |\n| Subscriptions / Platforms / Devices | $12.38B | +19% | Play + Workspace + hardware |\n| Google Services total | $89.64B | +16% | Op margin 45.3% (+300bps) |\n| Google Cloud | $20.0B | +63% | Op income $6.6B; margin 32.9% vs 17.8%; backlog $462B |\n| Other Bets | $411M | -9% | Immaterial; declining |\n\n### Guidance Delta\nCapEx guidance raised to $180-190B for 2026 (from $175-185B), with 2027 flagged as \"significantly higher.\" FCF severely compressed \u2014 Q1 FCF $10.1B vs $39.7B operating income (25% conversion). Wiz acquisition creates low single-digit % headwind to Cloud margins for rest of 2026. No revenue guidance given. Management tone confident but acknowledged near-term compute constraints limiting Cloud upside.\n\n### Key Quotes\nSundar Pichai: \"We are compute constrained in the near term. Our cloud revenue would have been higher if able to meet demand.\"\n\nSundar Pichai: \"We're the only provider to offer first-party solutions across the entire enterprise AI stack.\"\n\nAnat Ashkenazi: \"Higher depreciation expense and related data center operations costs such as energy will pressure profitability going forward.\"\n\n### Thesis Check\nReinforces the bull case on Cloud and Search moat, but capital intensity is the new core risk. Cloud at $20B (+63%) with 32.9% op margin is exceptional. Search +19% demolishes AI-cannibalization narrative for now. The problem: $180-190B CapEx in 2026, rising in 2027. Near-zero FCF despite $39.7B operating income. Thesis holds if AI infrastructure spend yields durable Cloud share gains \u2014 but ROI is unproven at this scale.\n\n### Red Flags\n- EPS quality: Headline $5.11 includes ~$2.35/share non-cash gains. Core ~$2.76.\n- FCF compression: $10.1B FCF on $45.8B OCF. CapEx absorbing ~78% of operating cash.\n- Compute constraint admitted: capacity bottleneck limits near-term Cloud growth ceiling.\n- Wiz headwind: Cloud margin steps back Q2-Q4 2026; 32.9% is likely the peak for now.\n- Antitrust: DOJ cases unresolved. Structural breakup decision expected late 2026."
     },
     {
       "ticker": "INTU",
@@ -1758,22 +1779,23 @@
         "eps_actual": null,
         "eps_est": null
       },
-      "thesis_summary": "Dominant SMB financial OS with ~80% QBO market share. TurboTax + QuickBooks + Credit Karma create a flywheel of switching costs and two-sided network effects. AI Agents (Intuit Assist) beginning to monetize with tiered pricing. FY2025 revenue $18.8B +16%, FCF $6.1B (32% margin) expanding to est ~35% in FY2026. Stock down 47% from peak on AI disruption fears — creates entry opportunity for GARP investor at ~20x forward earnings vs. 15% FCF CAGR.",
+      "thesis_summary": "Dominant SMB financial OS with ~80% QBO market share. TurboTax + QuickBooks + Credit Karma create a flywheel of switching costs and two-sided network effects. AI Agents (Intuit Assist) beginning to monetize with tiered pricing. FY2025 revenue $18.8B +16%, FCF $6.1B (32% margin) expanding to est ~35% in FY2026. Stock down 47% from peak on AI disruption fears \u2014 creates entry opportunity for GARP investor at ~20x forward earnings vs. 15% FCF CAGR.",
       "key_risks": [
-        "AI commoditisation of tax prep — ChatGPT/Claude could erode TurboTax moat if liability constraints relax",
-        "IRS Direct File expansion (now 25 states) — direct government competition for TurboTax",
+        "AI commoditisation of tax prep \u2014 ChatGPT/Claude could erode TurboTax moat if liability constraints relax",
+        "IRS Direct File expansion (now 25 states) \u2014 direct government competition for TurboTax",
         "Morningstar downgraded moat from wide to narrow citing AI uncertainty",
-        "Net debt position ($1.4B) with $6B total debt — not a risk but limits flexibility",
-        "CEO selling pattern (7 sells, 0 buys over 5 years) — though all pre-scheduled 10b5-1 and now halted",
+        "Net debt position ($1.4B) with $6B total debt \u2014 not a risk but limits flexibility",
+        "CEO selling pattern (7 sells, 0 buys over 5 years) \u2014 though all pre-scheduled 10b5-1 and now halted",
         "QuickBooks Desktop-to-Online transition creates near-term revenue headwinds (-17% desktop YoY)"
       ],
       "red_flags": [
-        "🟡 Morningstar moat downgrade wide->narrow on AI disruption risk — uncertainty raised to High",
-        "🟡 IRS Direct File now live in 25 states — direct government-funded competitor to TurboTax",
-        "🟡 CEO sold $47M+ in H2 2025 (all 10b5-1), though leadership terminated all sale plans Feb 2026 and CFO called stock 'meaningfully misaligned'"
+        "\ud83d\udfe1 Morningstar moat downgrade wide->narrow on AI disruption risk \u2014 uncertainty raised to High",
+        "\ud83d\udfe1 IRS Direct File now live in 25 states \u2014 direct government-funded competitor to TurboTax",
+        "\ud83d\udfe1 CEO sold $47M+ in H2 2025 (all 10b5-1), though leadership terminated all sale plans Feb 2026 and CFO called stock 'meaningfully misaligned'"
       ],
-      "notes": "Researched 2026-04-02, updated 2026-05-10. Price $396 (~51% below Jul 2025 ATH of $814). Forward PE 16.7x vs 10yr avg 48x — at multi-decade low. FY2026 guidance: $21.0-21.2B revenue, non-GAAP EPS $22.98-23.18. Consensus EPS: FY2026 $23.67, FY2027 $27.12, FY2028 ~$31.0, FY2029 ~$35.5, FY2030 ~$40.6. 5yr EPS CAGR ~15%. PEG ~1.1x. Analyst consensus: 36 analysts, Strong Buy, avg PT $692 (75% upside). $3.5B buyback underway. Q3 FY2026 earnings due late May/early June — AI Agent QuickBooks traction is the next catalyst.",
-      "target_year": 2031
+      "notes": "Researched 2026-04-02, updated 2026-05-10. Price $396 (~51% below Jul 2025 ATH of $814). Forward PE 16.7x vs 10yr avg 48x \u2014 at multi-decade low. FY2026 guidance: $21.0-21.2B revenue, non-GAAP EPS $22.98-23.18. Consensus EPS: FY2026 $23.67, FY2027 $27.12, FY2028 ~$31.0, FY2029 ~$35.5, FY2030 ~$40.6. 5yr EPS CAGR ~15%. PEG ~1.1x. Analyst consensus: 36 analysts, Strong Buy, avg PT $692 (75% upside). $3.5B buyback underway. Q3 FY2026 earnings due late May/early June \u2014 AI Agent QuickBooks traction is the next catalyst.",
+      "target_year": 2031,
+      "earnings_notes": ""
     }
   ],
   "non_holdings": [

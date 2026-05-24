@@ -77,8 +77,10 @@ class LatestEarnings:
     quarter:         Optional[str]   = None
     revenue_actual:  Optional[float] = None
     revenue_est:     Optional[float] = None
+    revenue_growth:  Optional[float] = None   # YoY % — shown as primary in earnings cell
     eps_actual:      Optional[float] = None
     eps_est:         Optional[float] = None
+    eps_growth:      Optional[float] = None   # YoY %
 
 
 @dataclass
@@ -95,10 +97,11 @@ class Holding:
     garp_scores:    GarpScores     = field(default_factory=GarpScores)
     scenarios:      Scenarios      = field(default_factory=Scenarios)
     latest_earnings: LatestEarnings = field(default_factory=LatestEarnings)
-    thesis_summary: str  = ""
-    key_risks:      list = field(default_factory=list)
-    red_flags:      list = field(default_factory=list)
-    notes:          str  = ""
+    thesis_summary:  str  = ""
+    key_risks:       list = field(default_factory=list)
+    red_flags:       list = field(default_factory=list)
+    notes:           str  = ""
+    earnings_notes:  str  = ""   # written by /earnings; displayed in earnings popup
 
 
 @dataclass

@@ -7,6 +7,7 @@ Workflow:
 4. Produce the brief in the format below
 5. Update `portfolio_state.json` for this ticker:
    - `latest_earnings` object (quarter, actuals vs estimates)
+   - `earnings_notes` — write the full brief output (everything from Executive Summary through Red Flags) as a single string; this is displayed in the earnings popup on the dashboard
    - Add red flags if EPS/rev miss, guidance cut, tone shift
    - Update `last_review_date` to today
 6. Print confirmation: "✓ portfolio_state.json updated — $ARGUMENTS [what changed]"
