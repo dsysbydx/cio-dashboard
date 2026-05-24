@@ -226,7 +226,7 @@ thead th.sort-desc::after{content:' ↓'}
 .thesis-txt{font-size:12px;font-family:var(--f-sans);color:var(--t2);line-height:1.65;cursor:pointer;padding:5px;border-radius:4px;border:1px solid transparent;min-height:36px}
 .thesis-txt:hover{border-color:var(--b2)}
 .thesis-ta{width:100%;background:transparent;border:1px solid var(--acc);border-radius:4px;padding:6px;color:var(--t1);font-family:var(--f-sans);font-size:12px;line-height:1.65;resize:none;outline:none}
-.notes-ta{width:100%;background:var(--s2);border:1px solid var(--b1);border-radius:5px;padding:7px;color:var(--t1);font-family:var(--f-sans);font-size:12px;line-height:1.55;resize:none;outline:none;margin-top:4px}
+.notes-ta{width:100%;background:var(--s2);border:1px solid var(--b1);border-radius:5px;padding:7px;color:var(--t1);font-family:var(--f-sans);font-size:12px;line-height:1.55;resize:none;outline:none;margin-top:4px;min-height:90px;overflow-y:hidden;white-space:pre-wrap;word-break:break-word}
 .notes-ta:focus{border-color:var(--acc)}
 
 /* EARNINGS EXPAND */
@@ -842,12 +842,18 @@ function injectExpand(h){
     <!-- NOTES -->
     <div class="expand-section full" style="grid-column:1/-1">
       <div class="expand-lbl">Notes</div>
-      <textarea class="notes-ta" rows="2" placeholder="Quick notes…" onclick="event.stopPropagation()" onchange="updateField('${h.ticker}','notes',this.value)">${h.notes||''}</textarea>
+      <textarea class="notes-ta" placeholder="Quick notes…" onclick="event.stopPropagation()" oninput="autoResizeTA(this)" onchange="updateField('${h.ticker}','notes',this.value)">${h.notes||''}</textarea>
     </div>
   </div>
   </td>`;
 
   rowEl.after(tr);
+  tr.querySelectorAll('.notes-ta').forEach(autoResizeTA);
+}
+
+function autoResizeTA(el){
+  el.style.height='auto';
+  el.style.height=Math.min(el.scrollHeight+2,500)+'px';
 }
 
 // ═══════════════════════════════════════════

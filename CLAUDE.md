@@ -108,7 +108,7 @@ Full workflows and output formats are in `.claude/commands/`. Commands:
       "thesis_summary": "...",
       "key_risks": ["risk 1", "risk 2"],
       "red_flags": ["🔴 Critical flag", "🟡 Caution flag"],
-      "notes": ""
+      "notes": "· Reviewed YYYY-MM-DD · Price $X · <key context>\n· <data point not captured in other fields>\n· <recent event or catalyst>\n· <analyst consensus / valuation context>\n· Next catalyst: ..."
     }
   ],
   "non_holdings": [
@@ -133,6 +133,7 @@ Full workflows and output formats are in `.claude/commands/`. Commands:
 - No generic financial advisor disclaimers.
 - If a command is ambiguous, ask one clarifying question before proceeding.
 - After every write: `✓ portfolio_state.json updated — [TICKER] [what changed]`
+- `notes` field: always write as 5–7 bullet points (· prefix), not prose. Cover: review date + price, key data not in other fields, recent events, analyst consensus / valuation, next catalyst. No paragraph text.
 
 ---
 
