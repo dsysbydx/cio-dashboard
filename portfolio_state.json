@@ -447,48 +447,85 @@
       "name": "Mastercard",
       "weight": 2.75,
       "type": "equity",
-      "current_price": null,
-      "last_review_date": null,
-      "thesis_status": "unset",
+      "current_price": 499.0,
+      "last_review_date": "2026-05-26",
+      "thesis_status": "intact",
       "action": "hold",
+      "target_year": 2031,
       "garp_scores": {
-        "growth": 0,
-        "profitability": 0,
-        "balance_sheet": 0,
-        "moat": 0,
-        "management": 0,
-        "secular_trend": 0,
-        "valuation": 0,
-        "technical": 0
+        "growth": 4,
+        "profitability": 5,
+        "balance_sheet": 4,
+        "moat": 5,
+        "management": 4,
+        "secular_trend": 5,
+        "valuation": 3,
+        "technical": 3
       },
       "scenarios": {
         "bear": {
-          "revenue_target": null,
-          "net_margin": null,
-          "cagr": null
+          "revenue_target": 43,
+          "net_margin": 42,
+          "cagr": -5,
+          "net_income": 18.1,
+          "eps": 22.0,
+          "exit_pe": 17,
+          "price_target": 374,
+          "cumulative_dividends": 21,
+          "share_count_reduction_pct": 5,
+          "total_return_pct": -21,
+          "irr": -5
         },
         "base": {
-          "revenue_target": null,
-          "net_margin": null,
-          "cagr": null
+          "revenue_target": 54,
+          "net_margin": 47,
+          "cagr": 11,
+          "net_income": 25.4,
+          "eps": 33.0,
+          "exit_pe": 25,
+          "price_target": 825,
+          "cumulative_dividends": 24,
+          "share_count_reduction_pct": 10,
+          "total_return_pct": 70,
+          "irr": 11
         },
         "bull": {
-          "revenue_target": null,
-          "net_margin": null,
-          "cagr": null
+          "revenue_target": 64,
+          "net_margin": 51,
+          "cagr": 21,
+          "net_income": 32.6,
+          "eps": 43.0,
+          "exit_pe": 30,
+          "price_target": 1290,
+          "cumulative_dividends": 27,
+          "share_count_reduction_pct": 13,
+          "total_return_pct": 164,
+          "irr": 21
         }
       },
       "latest_earnings": {
-        "quarter": null,
-        "revenue_actual": null,
-        "revenue_est": null,
-        "eps_actual": null,
-        "eps_est": null
+        "quarter": "Q1 2026",
+        "revenue_actual": 8.4,
+        "revenue_est": 8.26,
+        "revenue_growth": 16,
+        "eps_actual": 4.60,
+        "eps_est": 4.41,
+        "eps_growth": 23
       },
-      "thesis_summary": "",
-      "key_risks": [],
-      "red_flags": [],
-      "notes": "",
+      "thesis_summary": "Mastercard is one half of the global payment network duopoly — 4.5B+ cards and 150M+ merchant acceptance points create a two-sided network moat compounding annually as cash is globally displaced. The Value-Added Services segment (cybersecurity, fraud analytics, data, loyalty) grew +22%/+18% cc in Q1 2026 and is the key differentiator driving margin expansion beyond pure transaction fees. BVNK ($1.8B) and Agent Pay position MA as stablecoin and AI-agent infrastructure rather than a disruption victim; watch cross-border volume (~30% of net revenue) and whether the BVNK integration delivers on its strategic bet.",
+      "key_risks": [
+        "Real-time payment rails (FedNow, UPI, PIX, SEPA Instant) displacing card rails on domestic low-value transactions — if switched transaction count growth decelerates below 7-8%/yr, the core volume thesis weakens",
+        "Stablecoin disruption — $33T+ annual volumes growing 72% YoY; BVNK positions MA in the ecosystem but fee rates on stablecoin settlement are structurally lower than interchange; long-term take rate compression risk",
+        "EU/US interchange regulation — EU caps already at 0.2-0.3% for consumer cards; if commercial card or cross-border fee caps spread, revenue per transaction declines structurally",
+        "Cross-border revenue concentration (~30% of net revenue, highest-margin) — Middle East conflict already creating Q2 headwind; geopolitical escalation or travel disruption compresses the most profitable segment disproportionately",
+        "BVNK acquisition execution — $1.5B upfront for MA's largest crypto bet; limited M&A track record at this scale; critics note infrastructure could have been built in-house at lower cost"
+      ],
+      "red_flags": [
+        "🟡 CEO Michael Miebach: 0 buys, 7 sells over 5 years (most recent March 26, 2025, 15,775 shares at $550, $8.68M via 10b5-1); current price $499 below his last sale price; no open-market purchases on record",
+        "🟡 BVNK acquisition $1.8B ($1.5B upfront + $300M contingent) — largest stablecoin deal to date; critics note MA paid double for infrastructure it could have built in-house; integration and crypto execution risk unproven at this scale",
+        "🟡 Cross-border travel headwind from Middle East conflict beginning March 2026 — Q2 2026 guidance stepped down to low end of low double digits cc (vs high end in Q1); sustained escalation would compress ~30% of net revenue"
+      ],
+      "notes": "· Reviewed 2026-05-26 · Price $499 (-16% from ATH $596, Aug 2025); market cap ~$440B; ~882M diluted shares\n· Q1 2026: Revenue $8.4B (+16% YoY, beat $8.26B); adj EPS $4.60 (+23% YoY, beat $4.41); VAS +22%/+18% cc; GDV $2.7T (+7% lc); cross-border +13%\n· FY2026 guidance: net rev high-end low double digits cc + ~1.5% FX tailwind; Q2 at low-end (Middle East travel headwind); adj op margin 60.8% Q1\n· BVNK acquisition $1.8B (March 2026, stablecoin infra); Agent Pay AI-agent payments; Amazon & JD.com partnerships extending network reach\n· 39 analysts; Strong Buy; avg PT $647-665 (30%+ upside); FY2026E adj EPS ~$20.25; FY2026E revenue ~$32B; $4.0B buybacks + $777M dividends in Q1\n· Next catalyst: Q2 2026 earnings; cross-border volume trajectory post Middle East headwind; BVNK acquisition close",
       "earnings_notes": ""
     },
     {
@@ -940,8 +977,8 @@
       "name": "Visa",
       "weight": 2.6,
       "type": "equity",
-      "current_price": 323.0,
-      "last_review_date": "2026-05-12",
+      "current_price": 330.0,
+      "last_review_date": "2026-05-26",
       "thesis_status": "intact",
       "action": "watch",
       "target_year": 2031,
@@ -958,65 +995,68 @@
       "scenarios": {
         "bear": {
           "revenue_target": 56,
-          "net_margin": 50.0,
-          "cagr": -3.0,
-          "net_income": 28.0,
-          "eps": 15.8,
-          "exit_pe": 17,
-          "price_target": 269,
-          "cumulative_dividends": 13,
-          "share_count_reduction_pct": 5.0,
-          "total_return_pct": -13,
-          "irr": -3.0
+          "net_margin": 48,
+          "cagr": -6,
+          "net_income": 26.9,
+          "eps": 13.0,
+          "exit_pe": 18,
+          "price_target": 234,
+          "cumulative_dividends": 14,
+          "share_count_reduction_pct": 5,
+          "total_return_pct": -25,
+          "irr": -6
         },
         "base": {
-          "revenue_target": 65,
-          "net_margin": 55.0,
-          "cagr": 9.8,
-          "net_income": 35.75,
-          "eps": 20.9,
+          "revenue_target": 71,
+          "net_margin": 55,
+          "cagr": 9,
+          "net_income": 39.1,
+          "eps": 20.0,
           "exit_pe": 24,
-          "price_target": 502,
-          "cumulative_dividends": 14,
-          "share_count_reduction_pct": 8.0,
-          "total_return_pct": 60,
-          "irr": 9.8
+          "price_target": 480,
+          "cumulative_dividends": 16,
+          "share_count_reduction_pct": 8,
+          "total_return_pct": 50,
+          "irr": 9
         },
         "bull": {
-          "revenue_target": 74,
-          "net_margin": 58.0,
-          "cagr": 17.5,
-          "net_income": 42.9,
+          "revenue_target": 85,
+          "net_margin": 58,
+          "cagr": 17,
+          "net_income": 49.3,
           "eps": 26.2,
           "exit_pe": 27,
           "price_target": 707,
-          "cumulative_dividends": 16,
-          "share_count_reduction_pct": 12.0,
-          "total_return_pct": 124,
-          "irr": 17.5
+          "cumulative_dividends": 18,
+          "share_count_reduction_pct": 12,
+          "total_return_pct": 119,
+          "irr": 17
         }
       },
       "latest_earnings": {
         "quarter": "Q2 FY2026",
         "revenue_actual": 11.23,
         "revenue_est": 10.75,
+        "revenue_growth": 17,
         "eps_actual": 3.31,
-        "eps_est": 3.1
+        "eps_est": 3.10,
+        "eps_growth": 20
       },
-      "thesis_summary": "Visa is the world's largest payments network — 4.5B+ cards and 130M+ merchant acceptance points create a two-sided moat that compounds every year as electronic payments displace cash globally. The toll-road model (fraction of every global transaction) generates 55%+ net margins with minimal reinvestment needed. Key watch: DOJ debit antitrust case (trial expected 2027-2028) could force structural changes to pricing; stablecoin/AI-agent routing around interchange is the longer-term moat test.",
+      "thesis_summary": "Visa is the world's largest payment network — 4.5B+ cards and 130M+ merchant acceptance points create a two-sided moat that compounds annually as electronic payments displace cash globally. Q2 FY2026 was Visa's strongest revenue growth since 2022 (+17% YoY), full-year guidance raised to low double-digit to low-teens revenue and EPS; the stablecoin strategy ($7B annualized settlement on 9 blockchains, +50% QoQ, Canada launch) and AI Intelligent Commerce Connect demonstrate Visa positioning as infrastructure for emerging payment rails rather than being bypassed. Watch: DOJ debit antitrust trial (fact discovery closes October 2026, trial expected late 2026-2027) and whether the new UK FCA investigation expands beyond PayPal wallet arrangements into broader card scheme pricing.",
       "key_risks": [
-        "DOJ antitrust monopoly suit (debit market) — motion to dismiss denied June 2025; fact discovery closes Oct 2026, trial likely 2027-2028; forced remedy could cap debit interchange or require network open access",
-        "AI agents + stablecoin bypass — Citrini Research flags AI optimizing away 2-3% interchange by routing via USDC/stablecoins; Stripe/Bridge building competing infrastructure ($1.9T payment volume 2025)",
-        "Trump credit card interest rate cap proposal (10% ceiling) — reduces bank incentive to issue Visa cards, pressures payments volume growth",
-        "Cross-border volume concentration — ~30% of net revenue is high-margin cross-border; geopolitical disruption or travel slowdown compresses the most valuable segment",
-        "CEO selling pattern — 37 sells, 0 buys over 5 years; $10.7M sale on April 29, 2026 (day after earnings beat) signals limited personal conviction at current prices"
+        "DOJ antitrust structural remedy — fact discovery closes October 16, 2026; expert discovery through April 2027; trial expected late 2026-early 2027; forced debit pricing cap or mandatory network open access would directly impair ~40% of US revenue from debit transactions",
+        "UK FCA competition investigation (May 6, 2026) — Chapter II abuse of dominance scrutiny on digital wallet funding arrangements; if FCA issues conduct remedies limiting scheme fee structures in the UK, reduces net revenue from a key market",
+        "AI agents + stablecoin bypass — Visa is building into stablecoin rails (positive) but if AI-optimised commerce fully routes via USDC/stablecoins at scale, card interchange on those transactions is structurally displaced; long-term take-rate compression risk",
+        "Trump credit card interest rate cap (10% ceiling) — reduces bank issuer economics, pressuring premium card issuance and payments volume in the highest-ARPU cardholder segment",
+        "Cross-border concentration (~30% of net revenue at highest margin) — any sustained geopolitical disruption, trade war escalation, or travel slowdown compresses the most profitable revenue segment disproportionately"
       ],
       "red_flags": [
-        "🔴 DOJ antitrust case on debit monopoly actively in discovery — motion to dismiss denied; trial 2027-2028; structural remedy risk to the debit business is real and unresolved",
-        "🟡 CEO McInerney: 37 Form 4 sells, 0 buys across 5 years; sold $10.7M on April 29, 2026 (immediately post-earnings beat at $340/share) — no skin in the game at current prices",
-        "🟡 Stablecoin volume $33T in 2025 (+72% YoY) — growing faster than card volumes; AI-agent commerce may route around interchange if cost optimization wins"
+        "🔴 DOJ antitrust debit monopoly case in active discovery — fact discovery closes October 16, 2026; expert discovery through April 2027; trial expected late 2026-early 2027; DOJ pressing forward aggressively; structural remedy (pricing cap or network open access) remains primary thesis-breaking tail risk",
+        "🟡 UK FCA competition investigation opened May 6, 2026 — Visa, Mastercard, and PayPal under investigation over digital wallet funding arrangements; Chapter II abuse of dominance scrutiny; early-stage, no findings reached; adds second regulatory layer on top of US DOJ case",
+        "🟡 CEO McInerney: 0 buys, 37+ Form 4 sells — most recent April 29, 2026, 31,455 shares at $340 ($10.7M, immediately post-earnings beat via 10b5-1); consistently selling despite retaining 265K+ shares via trust; no open-market purchases on record",
+        "🟡 Stablecoin run rate $7B annualized (+50% QoQ) — Visa actively building settlement infrastructure (positive strategic pivot); but if AI commerce fully routes stablecoin-native and avoids card interchange at scale, fee economics are structurally different from today"
       ],
-      "notes": "· Reviewed 2026-05-12 · Price $323 (down ~19% from highs on DOJ/stablecoin concerns); market cap ~$660B\n· Q2 FY2026: Revenue $11.23B (+17% YoY, strongest since 2022); non-GAAP EPS $3.31 vs $3.10 est; FY2026E EPS $13.10 → forward P/E ~24.7x\n· FY2026 guidance raised to low-double to low-teens revenue + EPS growth; $33B buyback capacity; $11.7B repurchased YTD H1 FY2026\n· Stablecoin settlement live across 9 blockchains at $7B annualised run rate — Visa positioning as settlement infrastructure, not just card rail\n· DOJ debit antitrust: motion to dismiss denied June 2025; trial likely 2027-2028; 27 Buy/11 Hold/0 Sell; avg PT $234; Glassdoor 3.8/5\n· Next catalyst: DOJ trial date confirmation; Q3 FY2026 earnings; stablecoin volume vs card volume trajectory",
+      "notes": "· Reviewed 2026-05-26 · Price $330 (+8% after Q2 beat; 52-wk $293-$375); market cap ~$707B; FY2026E EPS ~$13.10; forward P/E ~25.2x\n· Q2 FY2026: Revenue $11.23B (+17% YoY, strongest since 2022, beat $10.75B); EPS $3.31 (+20% YoY, beat $3.10); full-year guidance raised to low double-digit to low-teens revenue, low-teens EPS\n· Stablecoin: $7B annualized settlement (+50% QoQ), 9 blockchains, 160+ programs, Canada launch (Wealthsimple USDC, May 5); stablecoin card payment volume +200% YoY in Q2\n· UK FCA competition investigation opened May 6, 2026 — Visa, Mastercard, PayPal over digital wallet funding arrangements; Chapter II abuse of dominance; no findings yet\n· DOJ debit antitrust: fact discovery closes Oct 16, 2026; expert discovery through Apr 2027; trial expected late 2026-2027; DOJ pursuing aggressively under both administrations\n· 38+ analysts; avg PT ~$393-405; Strong Buy; $20B new buyback; CEO McInerney: 0 buys, 37+ sells (most recent Apr 29 at $340, $10.7M)\n· Next catalyst: Q3 FY2026 earnings late July 2026; DOJ fact discovery close October 2026",
       "earnings_notes": ""
     },
     {
@@ -1208,48 +1248,85 @@
       "name": "Bangkok Bank",
       "weight": 2.7,
       "type": "thai_bank",
-      "current_price": null,
-      "last_review_date": null,
+      "current_price": 165.0,
+      "last_review_date": "2026-05-26",
       "thesis_status": "parking",
       "action": "hold",
+      "target_year": 2029,
       "garp_scores": {
-        "growth": 0,
-        "profitability": 0,
-        "balance_sheet": 0,
-        "moat": 0,
-        "management": 0,
-        "secular_trend": 0,
-        "valuation": 0,
-        "technical": 0
+        "growth": 2,
+        "profitability": 3,
+        "balance_sheet": 5,
+        "moat": 3,
+        "management": 3,
+        "secular_trend": 3,
+        "valuation": 4,
+        "technical": 3
       },
       "scenarios": {
         "bear": {
-          "revenue_target": null,
-          "net_margin": null,
-          "cagr": null
+          "revenue_target": 150,
+          "net_margin": 24,
+          "cagr": -6,
+          "net_income": 36.0,
+          "eps": 19.4,
+          "exit_pe": 6,
+          "price_target": 116,
+          "cumulative_dividends": 21,
+          "share_count_reduction_pct": 0,
+          "total_return_pct": -17,
+          "irr": -6
         },
         "base": {
-          "revenue_target": null,
-          "net_margin": null,
-          "cagr": null
+          "revenue_target": 173,
+          "net_margin": 27,
+          "cagr": 12,
+          "net_income": 46.7,
+          "eps": 25.1,
+          "exit_pe": 8,
+          "price_target": 201,
+          "cumulative_dividends": 30,
+          "share_count_reduction_pct": 0,
+          "total_return_pct": 40,
+          "irr": 12
         },
         "bull": {
-          "revenue_target": null,
-          "net_margin": null,
-          "cagr": null
+          "revenue_target": 189,
+          "net_margin": 30,
+          "cagr": 27,
+          "net_income": 56.7,
+          "eps": 30.5,
+          "exit_pe": 10,
+          "price_target": 305,
+          "cumulative_dividends": 36,
+          "share_count_reduction_pct": 0,
+          "total_return_pct": 107,
+          "irr": 27
         }
       },
       "latest_earnings": {
-        "quarter": null,
-        "revenue_actual": null,
+        "quarter": "Q1 2026",
+        "revenue_actual": 40.8,
         "revenue_est": null,
-        "eps_actual": null,
-        "eps_est": null
+        "revenue_growth": -11,
+        "eps_actual": 5.92,
+        "eps_est": null,
+        "eps_growth": -13
       },
-      "thesis_summary": "",
-      "key_risks": [],
-      "red_flags": [],
-      "notes": "",
+      "thesis_summary": "Bangkok Bank is Thailand's fourth-largest commercial bank by assets, held as a capital parking position within a regulated oligopoly; its fortress balance sheet (CAR 20.9%, NPL coverage 294%, NPL 3.1%) and 6.1% dividend yield (THB 10.00 FY2025) provide income and capital preservation. Permata Bank Indonesia (BBL subsidiary, ~25% of consolidated loans, Q1 2026 net profit +16.6% YoY) adds ASEAN growth optionality beyond Thailand's sluggish 1.5% GDP environment. Watch: whether FY2026 earnings hold near THB 44-46B to sustain the FY2025 dividend, and Permata's NPL trend given rising NPL Gross from 2.0% to 2.2%.",
+      "key_risks": [
+        "NIM structural suppression — BBL NIM 2.49% at the lower end of Thai peer range (vs KBANK 2.95%); BOT pause limits further cuts but NIM recovery requires rate hike cycle unlikely before 2028; NII -12.3% YoY in Q1 2026 is the earnings drag",
+        "Thai macro headwinds — BOT GDP forecast 1.5% for 2026; household debt ~90% GDP; US tariff uncertainty affecting Thai export sector; limits loan growth to 2-3% guidance and keeps SME/consumer NPL risk elevated",
+        "Dividend sustainability — FY2025 THB 10.00/share stepped up from FY2024 THB 6.50; if FY2026 net profit falls toward THB 43-44B, payout at 37% implies ~THB 8.5-9.0/share (~5.3% yield at 165), representing a cut vs FY2025",
+        "Permata Bank credit quality — NPL Gross rose from 2.0% to 2.2% in Q1 2026; Permata is ~25% of BBL consolidated loans; Indonesian macro stress or credit cycle would add to consolidated NPL and provisioning requirements",
+        "Capital over-conservatism — CET1 16.4% vs management's ~17% target before higher payouts; large unreturned capital buffer depresses ROE and leaves upside optionality dependent on willingness to return capital that historically has been slow"
+      ],
+      "red_flags": [
+        "🟡 Q1 2026 net profit -12.9% YoY (THB 10,994M) — NIM compressed to 2.49%; NII -12.3% YoY; total operating income -11% YoY; BOT now on pause at 1.00% which limits further downside but meaningful NIM recovery is 2-3 years away",
+        "🟡 Dividend step-up sustainability risk — FY2025 THB 10.00/share vs FY2024 THB 6.50; Q1 2026 annualized net profit ~THB 44B implies EPS ~THB 24; at 37% payout FY2026 dividend ~THB 8.9, below FY2025 level",
+        "🟡 Permata Bank Indonesia NPL Gross rising from 2.0% (Q1 2025) to 2.2% (Q1 2026) — BBL's Indonesia subsidiary is 25% of consolidated loans; watch for further asset quality deterioration"
+      ],
+      "notes": "· Reviewed 2026-05-26 · Price THB 165 (52-wk range 135-181); market cap ~THB 306B; ~1,857M shares; trailing yield ~6.1% (FY2025 THB 10.00/share approved April 10, 2026)\n· Q1 2026: Net profit THB 10,994M (-12.9% YoY); NII THB 27,976M (-12.3% YoY); NIM 2.49%; non-II -6.6% YoY; total op income ~THB 40.8B (-11% YoY)\n· Balance sheet: CAR 20.9%, CET1 16.4%, NPL 3.1%, coverage ~294%; loans THB 2.66T (+2.0% from YE); LDR 82.6%; management CET1 target ~17%\n· Permata Bank Indonesia (25% of loans): Q1 2026 net profit +16.6% YoY; NPL Gross 2.2% (rising); LDR 87.1%; IDR 259T assets, top-10 Indonesian bank\n· FY2026 guidance: loan growth 2-3%, NIM 2.4-2.5%, credit costs ~1%; 13 analysts, avg PT ~THB 175 (range 119-201), 8 buy/5 sell, Neutral consensus\n· CEO Chartsiri Sophonpanich (president 32+ years, founder's grandson, ~1.19% direct stake); Sophonpanich family controlling shareholder; no governance flags\n· Next catalyst: Q2 2026 earnings — NIM stabilization signal and FY2026 dividend guidance",
       "earnings_notes": ""
     },
     {
@@ -1257,48 +1334,86 @@
       "name": "ASML Holding",
       "weight": 1.7,
       "type": "equity",
-      "current_price": null,
-      "last_review_date": null,
-      "thesis_status": "unset",
-      "action": "hold",
+      "current_price": 1500.0,
+      "last_review_date": "2026-05-26",
+      "thesis_status": "intact",
+      "action": "watch",
+      "target_year": 2031,
       "garp_scores": {
-        "growth": 0,
-        "profitability": 0,
-        "balance_sheet": 0,
-        "moat": 0,
-        "management": 0,
-        "secular_trend": 0,
-        "valuation": 0,
-        "technical": 0
+        "growth": 4,
+        "profitability": 5,
+        "balance_sheet": 4,
+        "moat": 5,
+        "management": 4,
+        "secular_trend": 5,
+        "valuation": 1,
+        "technical": 2
       },
       "scenarios": {
         "bear": {
-          "revenue_target": null,
-          "net_margin": null,
-          "cagr": null
+          "revenue_target": 49,
+          "net_margin": 27,
+          "cagr": -12,
+          "net_income": 13.2,
+          "eps": 35.0,
+          "exit_pe": 22,
+          "price_target": 770,
+          "cumulative_dividends": 35,
+          "share_count_reduction_pct": 4,
+          "total_return_pct": -46,
+          "irr": -12
         },
         "base": {
-          "revenue_target": null,
-          "net_margin": null,
-          "cagr": null
+          "revenue_target": 56,
+          "net_margin": 30,
+          "cagr": 2,
+          "net_income": 16.8,
+          "eps": 46.0,
+          "exit_pe": 35,
+          "price_target": 1610,
+          "cumulative_dividends": 41,
+          "share_count_reduction_pct": 8,
+          "total_return_pct": 10,
+          "irr": 2
         },
         "bull": {
-          "revenue_target": null,
-          "net_margin": null,
-          "cagr": null
+          "revenue_target": 75,
+          "net_margin": 36,
+          "cagr": 16,
+          "net_income": 27.0,
+          "eps": 77.0,
+          "exit_pe": 40,
+          "price_target": 3080,
+          "cumulative_dividends": 45,
+          "share_count_reduction_pct": 11,
+          "total_return_pct": 108,
+          "irr": 16
         }
       },
       "latest_earnings": {
-        "quarter": null,
-        "revenue_actual": null,
-        "revenue_est": null,
-        "eps_actual": null,
-        "eps_est": null
+        "quarter": "Q1 2026",
+        "revenue_actual": 8.8,
+        "revenue_est": 8.66,
+        "revenue_growth": 13,
+        "eps_actual": 7.15,
+        "eps_est": 6.95,
+        "eps_growth": 51
       },
-      "thesis_summary": "",
-      "key_risks": [],
-      "red_flags": [],
-      "notes": "",
+      "thesis_summary": "ASML is the world's sole manufacturer of EUV lithography machines — the essential bottleneck for every advanced chip below 7nm — giving it an absolute monopoly with unmatched pricing power and a 15-20 year technology lead over any potential competitor. Q1 2026 delivered €8.8B revenue (+13% YoY) with 2 High-NA EUV units recognised, and full-year guidance was raised to €36-40B on AI infrastructure demand (data centre CAGR forecast raised to 18%); the 2030 targets of €44-60B at 56-60% gross margin remain intact. Watch: MATCH Act passage (potential US ban on DUV immersion exports to China, up to -10% EPS per JPMorgan) and whether the current ~60x FY2026E P/E — near the all-time high price — can be sustained as High-NA adoption proves out on schedule.",
+      "key_risks": [
+        "MATCH Act passage — bipartisan US bill would ban DUV immersion exports to China (currently 20% of FY2026E revenue); JPMorgan estimates up to -10% EPS impact; China already fell from 36% to 19% of Q1 sales; enacted rules could also restrict servicing of installed base",
+        "High-NA EUV ramp risk — at €350-400M/unit, TSMC has delayed adoption (too expensive, may bypass for A14 process); Samsung pushed out to 2027; Intel 14A risk production only in 2027; slower High-NA ramp means the highest-margin product takes longer to replace DUV revenue",
+        "Valuation-driven downside — at ~60x FY2026E P/E, any guidance cut reprices dramatically; the October 2024 cut (-16% in one day even at ~33x at the time) illustrates how severe multiple compression is at elevated multiples; base case 5-year IRR is only +2% even with 8% revenue CAGR",
+        "Semiconductor cycle risk — ASML's lumpy revenue reflects a cyclical equipment market; a memory or logic capex pause (as in 2023-2024) would hit bookings hard; the €38.8B backlog provides short-term visibility but orders can slow sharply",
+        "Geopolitical escalation — further US-Dutch pressure to expand restrictions beyond current DUV to include service, parts, or software on installed China machines would impair China maintenance revenue included in the current 20% China share"
+      ],
+      "red_flags": [
+        "🔴 Valuation: ~60x FY2026E P/E (€1,500 vs €24.88 EPS consensus); at 60x, the base case 5-year IRR is only +2% assuming 8% revenue CAGR and exit at 35x in 2031; meaningful return requires either the multiple staying elevated (unlikely at maturity) or earnings materially exceeding the 2030 target range of €44-60B",
+        "🟡 MATCH Act (US bipartisan bill) — would ban DUV immersion exports to China; stock already fell to 52-week low of $683 in April 2026 on this news before recovering; Q1 China share fell to 19% (from 36% in Q4); JPMorgan estimates -10% EPS if enacted; ongoing legislative risk",
+        "🟡 Securities class action (October 2024 guidance cut) — class period January 24–October 15, 2024; allegation that ASML misled investors about China export control impact on financial outlook; still pending; settlement cost manageable for a company this size but legal overhang persists",
+        "🟡 TSMC High-NA delay — TSMC, the most important customer, delaying High-NA EUV adoption (too expensive at ~€400M/unit, may bypass for A14 process node); if TSMC skips the first generation of High-NA, the 2026-2027 High-NA ramp is Intel-and-Samsung-dependent, concentrating execution risk"
+      ],
+      "notes": "· Reviewed 2026-05-26 · Price ~€1,500 (~$1,633 USD NASDAQ ADR); 52-wk $683-$1,653 (near ATH; +139% from April 2026 lows); market cap ~$644B; EUR-denominated\n· Q1 2026: Revenue €8.8B (+13% YoY, beat €8.66B est); gross margin 53.0%; net income €2.8B; EPS €7.15; 2 High-NA EUV units recognised; stock fell on China DUV restriction news despite earnings beat\n· 2026 guidance raised to €36-40B, gross margin 51-53%; 2030 targets reaffirmed: €44-60B revenue, 56-60% gross margin; backlog €38.8B at year-end 2025; data centre CAGR forecast raised to 18%\n· High-NA EUV (€350-400M/unit): 10 units in 2026; Intel 14A risk production 2027; Samsung 2 units in 2025-2026, delaying mass prod to 2027; TSMC delaying — too expensive, may bypass for A14\n· China: 19% of Q1 sales (down from 36% in Q4 2025); FY2026E ~20%; MATCH Act would ban DUV immersion exports — JPMorgan up to -10% EPS; never shipped EUV to China\n· 38 buy / 1 sell analysts; avg PT $1,461-$1,639 (near current); FY2026E EPS €24.88 ($27.33 USD); forward P/E ~60x — primary constraint on action\n· CEO Fouquet (Apr 2024, former EUV BG head); insider stake 0.002%; Glassdoor 4.0/5; next catalyst: Q2 2026 earnings July 2026; MATCH Act vote",
       "earnings_notes": ""
     },
     {
@@ -1444,48 +1559,85 @@
       "name": "Sabina Thailand",
       "weight": 2.53,
       "type": "thai_other",
-      "current_price": null,
-      "last_review_date": null,
-      "thesis_status": "unset",
-      "action": "hold",
+      "current_price": 16.9,
+      "last_review_date": "2026-05-26",
+      "thesis_status": "dented",
+      "action": "watch",
+      "target_year": 2031,
       "garp_scores": {
-        "growth": 0,
-        "profitability": 0,
-        "balance_sheet": 0,
-        "moat": 0,
-        "management": 0,
-        "secular_trend": 0,
-        "valuation": 0,
-        "technical": 0
+        "growth": 1,
+        "profitability": 3,
+        "balance_sheet": 3,
+        "moat": 2,
+        "management": 3,
+        "secular_trend": 2,
+        "valuation": 3,
+        "technical": 2
       },
       "scenarios": {
         "bear": {
-          "revenue_target": null,
-          "net_margin": null,
-          "cagr": null
+          "revenue_target": 2.7,
+          "net_margin": 10,
+          "cagr": -12,
+          "net_income": 0.27,
+          "eps": 0.78,
+          "exit_pe": 8,
+          "price_target": 6,
+          "cumulative_dividends": 3.5,
+          "share_count_reduction_pct": 0,
+          "total_return_pct": -44,
+          "irr": -12
         },
         "base": {
-          "revenue_target": null,
-          "net_margin": null,
-          "cagr": null
+          "revenue_target": 3.2,
+          "net_margin": 13,
+          "cagr": 4,
+          "net_income": 0.42,
+          "eps": 1.20,
+          "exit_pe": 13,
+          "price_target": 15.6,
+          "cumulative_dividends": 5.0,
+          "share_count_reduction_pct": 0,
+          "total_return_pct": 22,
+          "irr": 4
         },
         "bull": {
-          "revenue_target": null,
-          "net_margin": null,
-          "cagr": null
+          "revenue_target": 4.0,
+          "net_margin": 15,
+          "cagr": 17,
+          "net_income": 0.60,
+          "eps": 1.73,
+          "exit_pe": 16,
+          "price_target": 28,
+          "cumulative_dividends": 6.5,
+          "share_count_reduction_pct": 0,
+          "total_return_pct": 104,
+          "irr": 17
         }
       },
       "latest_earnings": {
-        "quarter": null,
-        "revenue_actual": null,
+        "quarter": "Q1 2026",
+        "revenue_actual": 0.77,
         "revenue_est": null,
-        "eps_actual": null,
-        "eps_est": null
+        "revenue_growth": -9.0,
+        "eps_actual": 0.30,
+        "eps_est": null,
+        "eps_growth": 0.3
       },
-      "thesis_summary": "",
-      "key_risks": [],
-      "red_flags": [],
-      "notes": "",
+      "thesis_summary": "Sabina is Thailand's leading lingerie manufacturer and retailer — 487 distribution points and brand value exceeding THB 5B create a recognisable consumer brand holding ~26% market share in the domestic undergarment sector. The domestic retail segment is in structural decline (revenue -7% FY2025, -9% Q1 2026) driven by weak Thai consumer spending and online fast-fashion competition, while OEM manufacturing for European/UK premium clients (+50% in FY2025, ~9% of revenue) is management's strategic pivot with a 2026 target of 12%+ OEM ratio. Watch: whether OEM scales from ~9% to 15%+ of annual revenue by FY2027 to offset domestic retail decline and sustain the ~7% dividend at near-100% payout.",
+      "key_risks": [
+        "Domestic retail structural decline — revenue -6.9% FY2025 and -9.0% Q1 2026; Thai consumer spending under pressure from 1.5% GDP growth, ~90% household debt, and US tariff uncertainty on Thai exports; fast-fashion imports on Shopee/Lazada competing aggressively at the lower price tier where Sabina concentrates",
+        "OEM scale and concentration — OEM only ~9% of revenue (THB 293.8M FY2025); even if OEM doubles, it replaces only ~THB 300M of annual retail revenue decline; concentration among European/UK buyers means one major client departure or EU import policy change removes the primary growth catalyst",
+        "Dividend sustainability — FY2025 payout ratio ~100% (THB 410.05M on THB 410.8M profit); if FY2026 earnings decline further as Q1 revenue -9% continues, maintaining THB 1.18/share dividend is unsustainable; any cut weakens the yield thesis at current price",
+        "Thailand macro headwinds — BOT GDP forecast 1.5% for 2026, household debt ~90% GDP; additional rate cuts, baht weakening (import cost pressure on raw materials), or repeat natural disasters (FY2025 border/flood impacts on retail) could accelerate volume decline",
+        "Competition squeeze — Thai Wacoal holds the premium segment; fast-fashion imports dominate lower price points; Sabina's mid-tier positioning exposed to margin pressure from both ends without a clear differentiation upgrade"
+      ],
+      "red_flags": [
+        "🟡 Revenue declining 2+ consecutive years (-6.9% FY2025, -9.0% Q1 2026) — analyst consensus Sell (0 buy, 2 sell, 1 hold; 3 analysts); avg PT THB 16.73 (barely below current THB 16.90); high analyst estimate only THB 18.2; no analyst sees meaningful upside",
+        "🟡 Near-100% FY2025 payout ratio — THB 410.05M dividend on THB 410.8M net profit; no retained earnings for organic investment or balance sheet buffer; if FY2026 EPS falls even modestly, payout ratio exceeds 100% and the ~7% yield is at risk",
+        "🟡 OEM growth driver small and concentrated — primary growth engine is ~9% of revenue and dependent on a small number of European/UK premium clients; Higg FEM certification provides access but not contractual lock-in; EU-Thailand trade dynamics are an unhedged risk"
+      ],
+      "notes": "· Reviewed 2026-05-26 · Price THB 16.90; market cap ~THB 5.9B; yield ~7.0% (FY2025 div THB 1.18/share: THB 0.58 interim + THB 0.60 final); revenue/scenario figures in THB B\n· FY2025: Revenue THB 3.34B (-6.9% YoY); net profit THB 410.8M (-11.5% YoY); net margin 12.3%; gross margin ~53%; payout ratio ~100%; EPS THB 1.18\n· Q1 2026: Revenue THB 769.2M (-9.0% YoY); net profit THB 103M (+0.3% YoY); gross margin 53.4% (up from 52.5% Q1 2025); S&A -10.1% YoY — cost discipline offsetting top-line decline\n· OEM: +50.3% in FY2025 (THB 293.8M, ~9% of revenue); 2026 target OEM ratio 12%; EU/UK premium clients; Higg FEM certified; strategy: prioritise margins + bottom-line over aggressive top-line growth\n· Analyst consensus: Sell (0 buy, 2 sell, 1 hold; 3 analysts); avg PT THB 16.73 (high 18.2, low 14.4); P/E ~14.3x FY2025 EPS; TTM P/E ~13-14x\n· CEO Duangdao Mahanavanont (25+ yrs at company, CEO since 2022; Outstanding Senior CEO Award 2025); founder family likely controlling shareholder; no fraud/governance red flags found\n· Next catalyst: H1 2026 results — OEM revenue ratio vs 12% target; FY2026 annual dividend announcement confirming payout sustainability",
       "earnings_notes": ""
     },
     {
@@ -1795,6 +1947,92 @@
       ],
       "notes": "· Researched 2026-04-02, updated 2026-05-10 · Price $396 (~51% below ATH $814); forward P/E 16.7x (10yr avg 48x)\n· FY2026 guidance: $21.0-21.2B revenue; non-GAAP EPS $22.98-23.18; FY2026E consensus EPS $23.67; PEG ~1.1x; 5yr EPS CAGR ~15%\n· ~80% QBO market share; TurboTax + QuickBooks + Credit Karma flywheel; AI Agents tiered pricing beginning to monetize in FY2026\n· IRS Direct File live in 25 states (direct competitor); Morningstar moat downgraded wide → narrow (AI uncertainty, rated High)\n· 36 analysts; Strong Buy; avg PT $692 (75% upside); $3.5B buyback underway; leadership terminated all 10b5-1 sale plans Feb 2026\n· Next catalyst: Q3 FY2026 earnings late May/early June — AI Agent QuickBooks traction is the key signal",
       "target_year": 2031,
+      "earnings_notes": ""
+    },
+    {
+      "ticker": "GRAB",
+      "name": "Grab Holdings",
+      "weight": 0,
+      "type": "equity",
+      "current_price": 3.51,
+      "last_review_date": "2026-05-27",
+      "thesis_status": "intact",
+      "action": "watch",
+      "target_year": 2031,
+      "garp_scores": {
+        "growth": 4,
+        "profitability": 3,
+        "balance_sheet": 4,
+        "moat": 4,
+        "management": 3,
+        "secular_trend": 5,
+        "valuation": 3,
+        "technical": 2
+      },
+      "scenarios": {
+        "bear": {
+          "revenue_target": 5.5,
+          "net_margin": 8,
+          "cagr": -12,
+          "net_income": 0.44,
+          "eps": 0.10,
+          "exit_pe": 18,
+          "price_target": 1.80,
+          "cumulative_dividends": 0,
+          "share_count_reduction_pct": -8,
+          "total_return_pct": -49,
+          "irr": -12
+        },
+        "base": {
+          "revenue_target": 7.0,
+          "net_margin": 12,
+          "cagr": 7,
+          "net_income": 0.84,
+          "eps": 0.20,
+          "exit_pe": 25,
+          "price_target": 5.00,
+          "cumulative_dividends": 0,
+          "share_count_reduction_pct": -5,
+          "total_return_pct": 43,
+          "irr": 7
+        },
+        "bull": {
+          "revenue_target": 9.5,
+          "net_margin": 15,
+          "cagr": 25,
+          "net_income": 1.43,
+          "eps": 0.36,
+          "exit_pe": 30,
+          "price_target": 10.80,
+          "cumulative_dividends": 0,
+          "share_count_reduction_pct": 0,
+          "total_return_pct": 208,
+          "irr": 25
+        }
+      },
+      "latest_earnings": {
+        "quarter": "Q1 2026",
+        "revenue_actual": 0.955,
+        "revenue_est": 0.92,
+        "revenue_growth": 24,
+        "eps_actual": 0.03,
+        "eps_est": 0.02,
+        "eps_growth": 400
+      },
+      "thesis_summary": "Grab is Southeast Asia's dominant super-app operating across 8 countries — the #1 or #2 player in ride-hailing, food delivery, and digital payments across a 650M+ population region experiencing rapid digital adoption and financial inclusion. Q1 2026 marked Grab's first consistently GAAP-profitable quarter ($120M net profit, +467% YoY), confirming the 2023-2024 efficiency restructuring is delivering; management's 2028 targets of $1.5B Adj EBITDA and 20%+ annual revenue growth are supported by Q1 execution and the Foodpanda Taiwan acquisition ($600M, $1.8B GMV, immediately profitable). Watch: GFin segment achieving EBITDA profitability in H2 2026 as guided — success would validate the fintech-as-moat thesis and justify a higher exit multiple.",
+      "key_risks": [
+        "GoTo/Gojek competition in Indonesia — Indonesia (~270M people) is SEA's largest economy and most contested market; GoTo has entrenched local presence; any GMV share loss in Indonesia disproportionately impacts Grab's blended take rate economics",
+        "GFin credit quality — gross loan portfolio grew 130% YoY to $1.44B in Q1 2026; Superbank Indonesia consolidation adds balance sheet complexity; segment still EBITDA-negative; rapid credit expansion in emerging markets carries NPL risk if SEA macro deteriorates",
+        "SBC dilution vs GAAP profitability gap — Q1 2026 net income ~$120M but SBC is likely $300M+/yr; FCF conversion from earnings is structurally limited; long-term SBC is a headwind to EPS growth if buybacks don't meaningfully offset dilution",
+        "Regulatory risk across 8 markets — ride-hailing worker classification, digital banking licensing (5 countries), food safety compliance; adverse regulatory change in Indonesia or Vietnam could impair operations in the two largest markets",
+        "M&A integration complexity — Foodpanda Taiwan ($600M), Stash Financial (US digital investing), and Superbank consolidation all executing simultaneously; limited M&A track record; missteps dilute management attention from core SEA organic growth"
+      ],
+      "red_flags": [
+        "🟡 CEO Anthony Tan sold 400K Class A shares at $3.6725 on May 11, 2026 (Form 4 via 10b5-1) — selling at 52-week lows ($3.39 low) is a cautionary signal; co-founder retains Class B super-voting control subordinating minority shareholders; offset by 6.75M RSA grants vesting 2027-2030",
+        "🟡 GFin still EBITDA-negative — gross loan portfolio +130% YoY at $1.44B with segment targeting H2 2026 breakeven; Superbank Indonesia consolidation adds off-balance-sheet credit risk now appearing on Grab's books; rapid digital lending in SEA emerging markets carries credit cycle risk",
+        "🟡 2023 executive instability (President Ming Maa was 2nd top departure in 6 months) — resolved with Alex Hungate as President/COO; 2025 board restructuring with 2 director exits and 2 additions; dual-class structure limits external oversight; no 2025-2026 senior executive departures found"
+      ],
+      "notes": "· Reviewed 2026-05-27 · Price $3.51 (52-wk $3.39-$6.62, near 52-wk low); market cap ~$14.0B; net cash $5.0B; EV ~$9.0B; EV/FY2026E Adj EBITDA ~12.7x\n· Q1 2026: Revenue $955M (+24% YoY, beat ~$920M); On-Demand GMV $6.1B (+24%); Adj EBITDA $154M (+46%); GAAP net profit $120M (+467% YoY); GFin revenue $107M (+43%), loan portfolio $1.44B (+130%)\n· FY2026 guidance: Revenue $4.04-4.10B; Adj EBITDA $700-720M; GFin EBITDA-positive H2 2026; 2028 target: Adj EBITDA $1.5B, 20%+/yr revenue CAGR (triple profit by 2028)\n· Acquisitions: Foodpanda Taiwan $600M ($1.8B GMV, profitable — Delivery Hero deal, closed 2026); Stash Financial (US investing, 1M+ paying users, $5B AUM); Superbank Indonesia (consolidating into GFin, May 2026)\n· CEO Anthony Tan (co-founder): sold 400K Class A shares at $3.67 (May 11, 2026, 10b5-1); received 6.75M RSA grants (vest 2027-2030); Glassdoor 3.9/5; CEO approval 76/100; ~4.0B diluted shares outstanding\n· 14 analysts: 14 buy, 0 hold, 0 sell; avg PT $6.12-6.53 (+74% upside from $3.51); FY2026E EPS ~$0.10; FY2026E revenue $4.04-4.10B (guidance midpoint $4.07B)\n· Next catalyst: Q2 2026 earnings — GFin EBITDA trajectory vs H2 2026 breakeven target; Foodpanda Taiwan integration revenue contribution; whether annualised net income surpasses $200M",
       "earnings_notes": ""
     }
   ],
